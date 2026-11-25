@@ -1,0 +1,7 @@
+APK installed and launched successfully.
+Quest Wi-Fi connected.
+Native passthrough layer created and resumed.
+Official Neon RTSP session started; repeated 2000-message batches received.
+No runtime exception matched in the startup log.
+Menu behavior passed 11 focused checks before build.
+Participant must visually confirm menu layout and selection in headset.

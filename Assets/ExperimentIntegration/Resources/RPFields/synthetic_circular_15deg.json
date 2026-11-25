@@ -1,0 +1,18 @@
+{
+ "id": "synthetic_circular_15deg",
+ "synthetic": true,
+ "description": "SYNTHETIC engineering test: circular 15 deg diameter field, both eyes, 1.5 deg soft edge. Not a patient field.",
+ "source": "synthetic",
+ "measuredWith": "none",
+ "edgeDeg": 1.5,
+ "left": {
+  "radiiDeg": [
+   7.5
+  ]
+ },
+ "right": {
+  "radiiDeg": [
+   7.5
+  ]
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "id": "synthetic_irregular_example",
+ "synthetic": true,
+ "description": "SYNTHETIC engineering example of an irregular, asymmetric tunnel (superior field more constricted) with one residual peripheral island per eye. Invented values for testing the pipeline; not representative of any patient.",
+ "source": "synthetic",
+ "measuredWith": "none",
+ "edgeDeg": 2.0,
+ "left": {
+  "radiiDeg": [
+   7.0,
+   6.62,
+   6.25,
+   5.88,
+   5.5,
+   5.25,
+   5.0,
+   5.5,
+   6.0,
+   6.75,
+   7.5,
+   8.25,
+   9.0,
+   9.56,
+   10.12,
+   10.45,
+   10.3,
+   10.15,
+   10.0,
+   9.75,
+   9.5,
+   8.88,
+   8.25,
+   7.62
+  ],
+  "islands": [
+   {
+    "azimuthDeg": 210,
+    "eccentricityDeg": 32,
+    "radiusDeg": 5
+   }
+  ]
+ },
+ "right": {
+  "radiiDeg": [
+   9.0,
+   8.25,
+   7.5,
+   6.75,
+   6.0,
+   5.5,
+   5.0,
+   5.25,
+   5.5,
+   5.88,
+   6.25,
+   6.62,
+   7.0,
+   7.62,
+   8.25,
+   8.88,
+   9.5,
+   9.75,
+   10.0,
+   10.15,
+   10.3,
+   10.45,
+   10.12,
+   9.56
+  ],
+  "islands": [
+   {
+    "azimuthDeg": 330,
+    "eccentricityDeg": 35,
+    "radiusDeg": 6
+   }
+  ]
+ }
+}

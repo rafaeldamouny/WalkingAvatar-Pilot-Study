@@ -1,0 +1,7 @@
+APK installed and launched successfully.
+Native passthrough layer created and resumed.
+Pulled session: session_20260915T143927699_29f2a2940d564340a1c4d9e1729249cb.csv
+Real gaze rows=3515; valid rows=2552
+Latest sample condition=manual_gaze_validation_passthrough; payload=EyeStateEyelidDualMonoGazeData; worn=1; effective center=GazeCentered
+SDK timestamps first=1789483172752; last=1789483232426
+Room visibility within the opening and stereo appearance await participant visual confirmation.

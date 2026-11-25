@@ -1,0 +1,9 @@
+PASS: Window filter reduces alternating fixation jitter by at least seventy-five percent
+PASS: Window filter preserves the steady gaze target without reducing gain
+PASS: Window filter follows a large eye movement within 167 milliseconds
+PASS: Window filter resets without carrying stale gaze
+PASS: Brief invalid tracking holds the displayed window without treating gaze as valid
+FAIL: System.Exception: Sustained tracking loss eases toward head center without snapping
+  at WalkingEyeExperiment.Editor.IntegrationChecks.Require (System.Boolean value, System.String message) [0x0001f] in C:\Unity\FootstepsPredictions1_PupilLabs\Assets\ExperimentIntegration\Editor\IntegrationChecks.cs:46 
+  at WalkingEyeExperiment.Editor.IntegrationChecks.CheckTrackingInterruptions (WalkingEyeExperiment.NeonGazeBridge gaze) [0x001e2] in C:\Unity\FootstepsPredictions1_PupilLabs\Assets\ExperimentIntegration\Editor\IntegrationChecks.cs:253 
+  at WalkingEyeExperiment.Editor.IntegrationChecks.Tick () [0x001e0] in C:\Unity\FootstepsPredictions1_PupilLabs\Assets\ExperimentIntegration\Editor\IntegrationChecks.cs:73 

@@ -1,0 +1,1 @@
+PASS: existing Working scene copied; RP shader imported without errors; source presets preserved. Stereo rendering still requires Quest validation.

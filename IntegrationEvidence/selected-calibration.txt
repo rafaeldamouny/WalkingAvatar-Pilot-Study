@@ -1,0 +1,6 @@
+User selected the first saved mount calibration and requested gaze-centered tunnel activation.
+Residual offset reported: consistent downward, estimated 2-3 cm; precise angular accuracy remains unmeasured.
+Restored offset position (m): 0, 0, 0.04000000283122063
+Restored offset rotation (Euler degrees): 10.444208145141602, 3.1224477291107179, 356.5679931640625
+Calibration ID for activation: quest3_first_20260915_user_selected_downward_offset_2to3cm
+Companion primary gaze mode remains unverified in metadata.

@@ -1,0 +1,6 @@
+Official calibration APK source: https://docs.pupil-labs.com/neon/neon-xr/MRTK3-template-project/
+Vendor download: https://drive.google.com/file/d/1oqItPeX0NtCI47RWGdbHfSkEHezwsmPz/view?usp=sharing
+Package: org.MixedRealityToolkit.MRTK3Sample
+Headset app label: MRTK3 Sample
+SHA-256: 9188D4E5767B3CD11D3A3B969F0F25183128F2AC056A9768D1E075889129237E
+Real non-simulated Neon samples confirmed in Quest CSV; mount calibration remains unverified.

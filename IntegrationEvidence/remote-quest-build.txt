@@ -1,0 +1,33 @@
+2026-11-20T04:38:54.2147843+02:00
+BUILD OK: Builds/NeonWalkingExperiment.apk 225.1 MB 2026-11-20T04:38:37.7492700+02:00
+adb: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platform-tools\adb.exe
+--- adb devices -l
+exit 0
+List of devices attached
+2G0YC5ZH0N03XH         device product:eureka model:Quest_3 device:eureka transport_id:2
+
+
+--- install
+exit 0
+Performing Streamed Install
+Success
+
+--- launch com.amplitlab.neonwalking
+exit 0
+  bash arg: -p
+  bash arg: com.amplitlab.neonwalking
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+Events injected: 1
+## Network stats: elapsed time=10ms (0ms mobile, 0ms wifi, 10ms not connected)
+args: [-p, com.amplitlab.neonwalking, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.amplitlab.neonwalking"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.amplitlab.neonwalking"
+data="android.intent.category.LAUNCHER"
+
+

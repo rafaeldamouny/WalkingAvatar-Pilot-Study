@@ -1,0 +1,41 @@
+[
+  {
+    "record_type": "gaze_sample",
+    "timestamp": "2026-09-15T13:36:21.7556540Z",
+    "sdk_timestamp_ms": "1789479381732",
+    "sample_sequence": "4942",
+    "sample_age_s": "0.00048661499999980151",
+    "gaze_simulated": "0",
+    "gaze_worn": "1",
+    "sdk_payload_type": "EyeStateEyelidDualMonoGazeData",
+    "gaze_invalid_reason": "mount_calibration_unverified",
+    "sdk_gaze_x_px": "796.94281005859375",
+    "sdk_gaze_y_px": "373.00848388671875"
+  },
+  {
+    "record_type": "gaze_sample",
+    "timestamp": "2026-09-15T13:36:21.7700390Z",
+    "sdk_timestamp_ms": "1789479381742",
+    "sample_sequence": "4943",
+    "sample_age_s": "0.00065369800000780742",
+    "gaze_simulated": "0",
+    "gaze_worn": "1",
+    "sdk_payload_type": "EyeStateEyelidDualMonoGazeData",
+    "gaze_invalid_reason": "mount_calibration_unverified",
+    "sdk_gaze_x_px": "796.42730712890625",
+    "sdk_gaze_y_px": "373.36444091796875"
+  },
+  {
+    "record_type": "gaze_sample",
+    "timestamp": "2026-09-15T13:36:21.7838110Z",
+    "sdk_timestamp_ms": "1789479381762",
+    "sample_sequence": "4944",
+    "sample_age_s": "0.00049171900002420443",
+    "gaze_simulated": "0",
+    "gaze_worn": "1",
+    "sdk_payload_type": "EyeStateEyelidDualMonoGazeData",
+    "gaze_invalid_reason": "mount_calibration_unverified",
+    "sdk_gaze_x_px": "794.15032958984375",
+    "sdk_gaze_y_px": "375.69244384765625"
+  }
+]

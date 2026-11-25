@@ -1,0 +1,25 @@
+{
+    "rtspSettings": {
+        "autoIp": true,
+        "deviceName": "",
+        "ip": "192.168.1.49",
+        "useUdp": true,
+        "port": 8086,
+        "dnsPort": 52634,
+        "timeEchoPort": 12321
+    },
+    "sensorCalibration": {
+        "offset": {
+            "position": {
+                "x": 0.0,
+                "y": 0.02800000086426735,
+                "z": 0.04000000283122063
+            },
+            "rotation": {
+                "x": 10.451783180236817,
+                "y": 2.5235865116119386,
+                "z": 0.13288648426532746
+            }
+        }
+    }
+}

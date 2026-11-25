@@ -1,0 +1,10 @@
+Gaze activation APK SHA-256: 3E34A57C653D24D48F2FE8F488E3FDE6EF7EE2B5CE0376CDC4F2D7744FFA86B4
+Succeeded; errors=0; size=1306384418
+Default mode: gaze centered; calibration gate enabled by explicit user request.
+Calibration: first saved Quest calibration; reported downward offset retained in calibration ID.
+Waiting for renewed Quest USB debugging authorization before installing this build.
+Installed updated APK and launched verified UnityPlayerGameActivity. Latest log: session_20260915T140129265_d6ea9a2e58df4c5e86de9246359633cf.csv; gaze-centered valid rows: 0
+Updated APK installed successfully and launched.
+Runtime loaded the experiment persistent calibration files and discovered Neon at 172.20.10.4.
+Latest pulled activation session contains startup/no-sample rows only; headset-worn live gaze-centered rendering still requires user verification.
+Reported downward calibration offset remains recorded; no extra software bias was applied.

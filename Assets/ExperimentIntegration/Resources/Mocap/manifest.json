@@ -1,0 +1,992 @@
+{
+ "joints": [
+  "Hips",
+  "Spine",
+  "Spine1",
+  "Neck",
+  "Neck1",
+  "Head",
+  "HeadTop",
+  "LeftArm",
+  "LeftForeArm",
+  "LeftHand",
+  "RightArm",
+  "RightForeArm",
+  "RightHand",
+  "LeftUpLeg",
+  "LeftLeg",
+  "LeftFoot",
+  "LeftToeBase",
+  "RightUpLeg",
+  "RightLeg",
+  "RightFoot",
+  "RightToeBase",
+  "LeftHandIndex1",
+  "RightHandIndex1"
+ ],
+ "units": "metres",
+ "axes": "Unity (left-handed, Y up); +Z = walking direction before T0; y=0 = ground level at T0",
+ "format": "float32 little-endian, frames x joints x 3",
+ "attribution": "The data used in this project was obtained from mocap.cs.cmu.edu. The database was created with funding from NSF EIA-0196217.",
+ "conversion": "CMU ASF/AMC converted to BVH (cgspeed conversion, via github.com/una-dinosauria/cmu-mocap); joint positions by forward kinematics of the recorded skeleton. Root positions checked against the original AMC files (max difference 5e-5 units).",
+ "clips": [
+  {
+   "id": "Straight_69_01",
+   "maneuver": "Straight",
+   "file": "Straight_69_01",
+   "frames": 692,
+   "fps": 120.0,
+   "t0": 4.1167,
+   "t0IsPseudo": true,
+   "startLevel": 0.0,
+   "measuredTurnDeg": -6.2,
+   "measuredRiseM": 0.0,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 69, trial 69_01 (\"walk forward\")",
+   "subject": 69,
+   "trial": "69_01",
+   "sourceSegmentS": [
+    1.5,
+    3.7
+   ],
+   "t0InSourceS": 2.05,
+   "skeleton": "69",
+   "recordedTargetStartsRelT0": -0.55,
+   "leadIn": [
+    {
+     "donor": "69_02",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.417,
+     "seamPoseRmsM": 0.0279
+    },
+    {
+     "donor": "69_04",
+     "donorDescription": "walk forward",
+     "seamRelT0": -1.167,
+     "seamPoseRmsM": 0.0145
+    },
+    {
+     "donor": "69_03",
+     "donorDescription": "walk forward",
+     "seamRelT0": -2.417,
+     "seamPoseRmsM": 0.0116
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "Straight_69_02",
+   "maneuver": "Straight",
+   "file": "Straight_69_02",
+   "frames": 724,
+   "fps": 120.0,
+   "t0": 4.3833,
+   "t0IsPseudo": true,
+   "startLevel": 0.0,
+   "measuredTurnDeg": -5.8,
+   "measuredRiseM": 0.0,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 69, trial 69_02 (\"walk forward\")",
+   "subject": 69,
+   "trial": "69_02",
+   "sourceSegmentS": [
+    0.5,
+    2.7
+   ],
+   "t0InSourceS": 1.05,
+   "skeleton": "69",
+   "recordedTargetStartsRelT0": -0.55,
+   "leadIn": [
+    {
+     "donor": "69_04",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.367,
+     "seamPoseRmsM": 0.0212
+    },
+    {
+     "donor": "69_03",
+     "donorDescription": "walk forward",
+     "seamRelT0": -1.333,
+     "seamPoseRmsM": 0.0116
+    },
+    {
+     "donor": "69_05",
+     "donorDescription": "walk forward",
+     "seamRelT0": -2.717,
+     "seamPoseRmsM": 0.0187
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "Straight_69_03",
+   "maneuver": "Straight",
+   "file": "Straight_69_03",
+   "frames": 720,
+   "fps": 120.0,
+   "t0": 4.35,
+   "t0IsPseudo": true,
+   "startLevel": 0.0,
+   "measuredTurnDeg": -11.1,
+   "measuredRiseM": 0.0,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 69, trial 69_03 (\"walk forward\")",
+   "subject": 69,
+   "trial": "69_03",
+   "sourceSegmentS": [
+    1.3,
+    3.5
+   ],
+   "t0InSourceS": 1.85,
+   "skeleton": "69",
+   "recordedTargetStartsRelT0": -0.55,
+   "leadIn": [
+    {
+     "donor": "69_02",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.367,
+     "seamPoseRmsM": 0.0242
+    },
+    {
+     "donor": "69_04",
+     "donorDescription": "walk forward",
+     "seamRelT0": -1.25,
+     "seamPoseRmsM": 0.0145
+    },
+    {
+     "donor": "69_05",
+     "donorDescription": "walk forward",
+     "seamRelT0": -2.5,
+     "seamPoseRmsM": 0.0171
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "Straight_69_04",
+   "maneuver": "Straight",
+   "file": "Straight_69_04",
+   "frames": 716,
+   "fps": 120.0,
+   "t0": 4.3167,
+   "t0IsPseudo": true,
+   "startLevel": 0.0,
+   "measuredTurnDeg": -4.5,
+   "measuredRiseM": 0.0,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 69, trial 69_04 (\"walk forward\")",
+   "subject": 69,
+   "trial": "69_04",
+   "sourceSegmentS": [
+    1.2,
+    3.4
+   ],
+   "t0InSourceS": 1.75,
+   "skeleton": "69",
+   "recordedTargetStartsRelT0": -0.55,
+   "leadIn": [
+    {
+     "donor": "69_02",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.367,
+     "seamPoseRmsM": 0.0181
+    },
+    {
+     "donor": "69_03",
+     "donorDescription": "walk forward",
+     "seamRelT0": -1.333,
+     "seamPoseRmsM": 0.0163
+    },
+    {
+     "donor": "69_05",
+     "donorDescription": "walk forward",
+     "seamRelT0": -2.633,
+     "seamPoseRmsM": 0.0176
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "Straight_69_05",
+   "maneuver": "Straight",
+   "file": "Straight_69_05",
+   "frames": 692,
+   "fps": 120.0,
+   "t0": 4.1167,
+   "t0IsPseudo": true,
+   "startLevel": 0.0,
+   "measuredTurnDeg": -5.9,
+   "measuredRiseM": 0.0,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 69, trial 69_05 (\"walk forward\")",
+   "subject": 69,
+   "trial": "69_05",
+   "sourceSegmentS": [
+    1.4,
+    3.6
+   ],
+   "t0InSourceS": 1.95,
+   "skeleton": "69",
+   "recordedTargetStartsRelT0": -0.55,
+   "leadIn": [
+    {
+     "donor": "69_02",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.367,
+     "seamPoseRmsM": 0.0323
+    },
+    {
+     "donor": "69_04",
+     "donorDescription": "walk forward",
+     "seamRelT0": -1.167,
+     "seamPoseRmsM": 0.0145
+    },
+    {
+     "donor": "69_03",
+     "donorDescription": "walk forward",
+     "seamRelT0": -2.433,
+     "seamPoseRmsM": 0.012
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "TurnLeft90_69_31",
+   "maneuver": "TurnLeft90",
+   "file": "TurnLeft90_69_31",
+   "frames": 752,
+   "fps": 120.0,
+   "t0": 3.5333,
+   "t0IsPseudo": false,
+   "startLevel": 0.0,
+   "measuredTurnDeg": -90.3,
+   "measuredRiseM": 0.0,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 69, trial 69_31 (\"walk forward 90 degree smooth left turn\")",
+   "subject": 69,
+   "trial": "69_31",
+   "sourceSegmentS": [
+    0.0,
+    -1
+   ],
+   "t0InSourceS": 0.367,
+   "skeleton": "69",
+   "recordedTargetStartsRelT0": -0.367,
+   "leadIn": [
+    {
+     "donor": "69_02",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.217,
+     "seamPoseRmsM": 0.0171
+    },
+    {
+     "donor": "69_04",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.583,
+     "seamPoseRmsM": 0.0145
+    },
+    {
+     "donor": "69_03",
+     "donorDescription": "walk forward",
+     "seamRelT0": -1.85,
+     "seamPoseRmsM": 0.012
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "TurnLeft90_69_32",
+   "maneuver": "TurnLeft90",
+   "file": "TurnLeft90_69_32",
+   "frames": 765,
+   "fps": 120.0,
+   "t0": 3.6833,
+   "t0IsPseudo": false,
+   "startLevel": 0.0,
+   "measuredTurnDeg": -98.3,
+   "measuredRiseM": 0.0,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 69, trial 69_32 (\"walk forward 90 degree smooth left turn\")",
+   "subject": 69,
+   "trial": "69_32",
+   "sourceSegmentS": [
+    0.0,
+    -1
+   ],
+   "t0InSourceS": 0.533,
+   "skeleton": "69",
+   "recordedTargetStartsRelT0": -0.533,
+   "leadIn": [
+    {
+     "donor": "69_02",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.367,
+     "seamPoseRmsM": 0.016
+    },
+    {
+     "donor": "69_04",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.733,
+     "seamPoseRmsM": 0.0145
+    },
+    {
+     "donor": "69_03",
+     "donorDescription": "walk forward",
+     "seamRelT0": -1.983,
+     "seamPoseRmsM": 0.0116
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "TurnLeft90_69_33",
+   "maneuver": "TurnLeft90",
+   "file": "TurnLeft90_69_33",
+   "frames": 783,
+   "fps": 120.0,
+   "t0": 3.8,
+   "t0IsPseudo": false,
+   "startLevel": 0.0,
+   "measuredTurnDeg": -94.9,
+   "measuredRiseM": 0.0,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 69, trial 69_33 (\"walk forward 90 degree smooth left turn\")",
+   "subject": 69,
+   "trial": "69_33",
+   "sourceSegmentS": [
+    0.0,
+    -1
+   ],
+   "t0InSourceS": 0.617,
+   "skeleton": "69",
+   "recordedTargetStartsRelT0": -0.617,
+   "leadIn": [
+    {
+     "donor": "69_02",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.433,
+     "seamPoseRmsM": 0.0139
+    },
+    {
+     "donor": "69_04",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.85,
+     "seamPoseRmsM": 0.0145
+    },
+    {
+     "donor": "69_03",
+     "donorDescription": "walk forward",
+     "seamRelT0": -2.1,
+     "seamPoseRmsM": 0.0116
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "TurnRight90_69_28",
+   "maneuver": "TurnRight90",
+   "file": "TurnRight90_69_28",
+   "frames": 766,
+   "fps": 120.0,
+   "t0": 3.4833,
+   "t0IsPseudo": false,
+   "startLevel": 0.0,
+   "measuredTurnDeg": 97.6,
+   "measuredRiseM": 0.0,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 69, trial 69_28 (\"walk forward 90 degree smooth right turn\")",
+   "subject": 69,
+   "trial": "69_28",
+   "sourceSegmentS": [
+    0.0,
+    -1
+   ],
+   "t0InSourceS": 0.967,
+   "skeleton": "69",
+   "recordedTargetStartsRelT0": -0.967,
+   "leadIn": [
+    {
+     "donor": "69_02",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.75,
+     "seamPoseRmsM": 0.0088
+    },
+    {
+     "donor": "69_04",
+     "donorDescription": "walk forward",
+     "seamRelT0": -1.783,
+     "seamPoseRmsM": 0.0145
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "TurnRight90_69_29",
+   "maneuver": "TurnRight90",
+   "file": "TurnRight90_69_29",
+   "frames": 739,
+   "fps": 120.0,
+   "t0": 3.2083,
+   "t0IsPseudo": false,
+   "startLevel": 0.0,
+   "measuredTurnDeg": 92.6,
+   "measuredRiseM": 0.0,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 69, trial 69_29 (\"walk forward 90 degree smooth right turn\")",
+   "subject": 69,
+   "trial": "69_29",
+   "sourceSegmentS": [
+    0.0,
+    -1
+   ],
+   "t0InSourceS": 0.308,
+   "skeleton": "69",
+   "recordedTargetStartsRelT0": -0.308,
+   "leadIn": [
+    {
+     "donor": "69_02",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.175,
+     "seamPoseRmsM": 0.019
+    },
+    {
+     "donor": "69_04",
+     "donorDescription": "walk forward",
+     "seamRelT0": -1.508,
+     "seamPoseRmsM": 0.0145
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "TurnRight90_69_30",
+   "maneuver": "TurnRight90",
+   "file": "TurnRight90_69_30",
+   "frames": 769,
+   "fps": 120.0,
+   "t0": 3.725,
+   "t0IsPseudo": false,
+   "startLevel": 0.0,
+   "measuredTurnDeg": 90.2,
+   "measuredRiseM": 0.0,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 69, trial 69_30 (\"walk forward 90 degree smooth right turn\")",
+   "subject": 69,
+   "trial": "69_30",
+   "sourceSegmentS": [
+    0.0,
+    -1
+   ],
+   "t0InSourceS": 0.558,
+   "skeleton": "69",
+   "recordedTargetStartsRelT0": -0.558,
+   "leadIn": [
+    {
+     "donor": "69_02",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.408,
+     "seamPoseRmsM": 0.0155
+    },
+    {
+     "donor": "69_04",
+     "donorDescription": "walk forward",
+     "seamRelT0": -0.775,
+     "seamPoseRmsM": 0.0145
+    },
+    {
+     "donor": "69_03",
+     "donorDescription": "walk forward",
+     "seamRelT0": -2.025,
+     "seamPoseRmsM": 0.0116
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "StairsUp_114_07",
+   "maneuver": "StairsUp",
+   "file": "StairsUp_114_07",
+   "frames": 794,
+   "fps": 120.0,
+   "t0": 4.3417,
+   "t0IsPseudo": false,
+   "startLevel": 0.0,
+   "measuredTurnDeg": -0.9,
+   "measuredRiseM": 0.319,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 114, trial 114_07 (\"Walking up and down stairs\")",
+   "subject": 114,
+   "trial": "114_07",
+   "sourceSegmentS": [
+    0.6,
+    5.6
+   ],
+   "t0InSourceS": 3.325,
+   "skeleton": "114",
+   "recordedTargetStartsRelT0": -2.725,
+   "leadIn": [
+    {
+     "donor": "114_13",
+     "donorDescription": "Walk",
+     "seamRelT0": -2.242,
+     "seamPoseRmsM": 0.0196
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "StairsUp_114_08",
+   "maneuver": "StairsUp",
+   "file": "StairsUp_114_08",
+   "frames": 856,
+   "fps": 120.0,
+   "t0": 4.0,
+   "t0IsPseudo": false,
+   "startLevel": 0.0,
+   "measuredTurnDeg": -7.4,
+   "measuredRiseM": 0.389,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 114, trial 114_08 (\"Walking up and down stairs\")",
+   "subject": 114,
+   "trial": "114_08",
+   "sourceSegmentS": [
+    0.0,
+    5.2
+   ],
+   "t0InSourceS": 2.067,
+   "skeleton": "114",
+   "recordedTargetStartsRelT0": -2.067,
+   "leadIn": [
+    {
+     "donor": "114_13",
+     "donorDescription": "Walk",
+     "seamRelT0": -1.817,
+     "seamPoseRmsM": 0.0256
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "StairsUp_114_09",
+   "maneuver": "StairsUp",
+   "file": "StairsUp_114_09",
+   "frames": 652,
+   "fps": 120.0,
+   "t0": 3.4167,
+   "t0IsPseudo": false,
+   "startLevel": 0.0,
+   "measuredTurnDeg": 3.4,
+   "measuredRiseM": 0.401,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 114, trial 114_09 (\"Walking up and down stairs\")",
+   "subject": 114,
+   "trial": "114_09",
+   "sourceSegmentS": [
+    2.6,
+    6.5
+   ],
+   "t0InSourceS": 4.483,
+   "skeleton": "114",
+   "recordedTargetStartsRelT0": -1.883,
+   "leadIn": [
+    {
+     "donor": "114_13",
+     "donorDescription": "Walk",
+     "seamRelT0": -1.4,
+     "seamPoseRmsM": 0.0292
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "StairsDown_114_07",
+   "maneuver": "StairsDown",
+   "file": "StairsDown_114_07",
+   "frames": 1008,
+   "fps": 120.0,
+   "t0": 4.025,
+   "t0IsPseudo": false,
+   "startLevel": 0.444,
+   "measuredTurnDeg": 2.0,
+   "measuredRiseM": -0.444,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 114, trial 114_07 (\"Walking up and down stairs\")",
+   "subject": 114,
+   "trial": "114_07",
+   "sourceSegmentS": [
+    7.3,
+    12.3
+   ],
+   "t0InSourceS": 7.925,
+   "skeleton": "114",
+   "recordedTargetStartsRelT0": -0.625,
+   "leadIn": [
+    {
+     "donor": "114_13",
+     "donorDescription": "Walk",
+     "seamRelT0": -0.408,
+     "seamPoseRmsM": 0.0572
+    },
+    {
+     "donor": "114_13",
+     "donorDescription": "Walk",
+     "seamRelT0": -1.942,
+     "seamPoseRmsM": 0.0457
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "StairsDown_114_08",
+   "maneuver": "StairsDown",
+   "file": "StairsDown_114_08",
+   "frames": 1078,
+   "fps": 120.0,
+   "t0": 4.1833,
+   "t0IsPseudo": false,
+   "startLevel": 0.436,
+   "measuredTurnDeg": 1.9,
+   "measuredRiseM": -0.436,
+   "source": "CMU Graphics Lab Motion Capture Database, subject 114, trial 114_08 (\"Walking up and down stairs\")",
+   "subject": 114,
+   "trial": "114_08",
+   "sourceSegmentS": [
+    6.9,
+    12.0
+   ],
+   "t0InSourceS": 7.2,
+   "skeleton": "114",
+   "recordedTargetStartsRelT0": -0.3,
+   "leadIn": [
+    {
+     "donor": "114_13",
+     "donorDescription": "Walk",
+     "seamRelT0": -0.2,
+     "seamPoseRmsM": 0.0463
+    },
+    {
+     "donor": "114_13",
+     "donorDescription": "Walk",
+     "seamRelT0": -2.1,
+     "seamPoseRmsM": 0.0457
+    }
+   ],
+   "notes": ""
+  }
+ ],
+ "skeletons": [
+  {
+   "id": "69",
+   "names": [
+    "Hips",
+    "LHipJoint",
+    "LeftUpLeg",
+    "LeftLeg",
+    "LeftFoot",
+    "LeftToeBase",
+    "RHipJoint",
+    "RightUpLeg",
+    "RightLeg",
+    "RightFoot",
+    "RightToeBase",
+    "LowerBack",
+    "Spine",
+    "Spine1",
+    "Neck",
+    "Neck1",
+    "Head",
+    "LeftShoulder",
+    "LeftArm",
+    "LeftForeArm",
+    "LeftHand",
+    "LeftFingerBase",
+    "LeftHandIndex1",
+    "LThumb",
+    "RightShoulder",
+    "RightArm",
+    "RightForeArm",
+    "RightHand",
+    "RightFingerBase",
+    "RightHandIndex1",
+    "RThumb"
+   ],
+   "parents": [
+    -1,
+    0,
+    1,
+    2,
+    3,
+    4,
+    0,
+    6,
+    7,
+    8,
+    9,
+    0,
+    11,
+    12,
+    13,
+    14,
+    15,
+    13,
+    17,
+    18,
+    19,
+    20,
+    21,
+    20,
+    13,
+    24,
+    25,
+    26,
+    27,
+    28,
+    27
+   ],
+   "offsets": [
+    -0.0,
+    0.0,
+    0.0,
+    -0.0,
+    0.0,
+    0.0,
+    -0.086438,
+    -0.103538,
+    0.043251,
+    -0.144561,
+    -0.397179,
+    0.0,
+    -0.146746,
+    -0.403182,
+    0.0,
+    -0.007757,
+    -0.021312,
+    0.112919,
+    -0.0,
+    0.0,
+    0.0,
+    0.079091,
+    -0.103539,
+    0.043252,
+    0.143398,
+    -0.393984,
+    0.0,
+    0.14855,
+    -0.408138,
+    0.0,
+    0.013621,
+    -0.037422,
+    0.115095,
+    -0.0,
+    0.0,
+    0.0,
+    -0.000663,
+    0.118704,
+    -0.016808,
+    -0.000436,
+    0.120355,
+    -0.000704,
+    -0.0,
+    0.0,
+    0.0,
+    0.005204,
+    0.09079,
+    0.017769,
+    -0.007888,
+    0.093391,
+    -0.017573,
+    -0.0,
+    0.0,
+    0.0,
+    -0.183393,
+    0.058071,
+    -0.013543,
+    -0.300823,
+    -0.0,
+    -0.0,
+    -0.208411,
+    -0.0,
+    -0.0,
+    -0.0,
+    0.0,
+    0.0,
+    -0.030288,
+    -0.0,
+    -0.0,
+    -0.0,
+    0.0,
+    0.0,
+    -0.0,
+    0.0,
+    0.0,
+    0.181405,
+    0.052494,
+    -0.019526,
+    0.295448,
+    -0.0,
+    0.0,
+    0.200548,
+    -0.0,
+    -0.0,
+    -0.0,
+    0.0,
+    0.0,
+    0.043604,
+    -0.0,
+    -0.0,
+    -0.0,
+    0.0,
+    0.0
+   ]
+  },
+  {
+   "id": "114",
+   "names": [
+    "Hips",
+    "LHipJoint",
+    "LeftUpLeg",
+    "LeftLeg",
+    "LeftFoot",
+    "LeftToeBase",
+    "RHipJoint",
+    "RightUpLeg",
+    "RightLeg",
+    "RightFoot",
+    "RightToeBase",
+    "LowerBack",
+    "Spine",
+    "Spine1",
+    "Neck",
+    "Neck1",
+    "Head",
+    "LeftShoulder",
+    "LeftArm",
+    "LeftForeArm",
+    "LeftHand",
+    "LeftFingerBase",
+    "LeftHandIndex1",
+    "LThumb",
+    "RightShoulder",
+    "RightArm",
+    "RightForeArm",
+    "RightHand",
+    "RightFingerBase",
+    "RightHandIndex1",
+    "RThumb"
+   ],
+   "parents": [
+    -1,
+    0,
+    1,
+    2,
+    3,
+    4,
+    0,
+    6,
+    7,
+    8,
+    9,
+    0,
+    11,
+    12,
+    13,
+    14,
+    15,
+    13,
+    17,
+    18,
+    19,
+    20,
+    21,
+    20,
+    13,
+    24,
+    25,
+    26,
+    27,
+    28,
+    27
+   ],
+   "offsets": [
+    -0.0,
+    0.0,
+    0.0,
+    -0.0,
+    0.0,
+    0.0,
+    -0.10859,
+    -0.09281,
+    0.046867,
+    -0.142732,
+    -0.392154,
+    0.0,
+    -0.142142,
+    -0.390533,
+    0.0,
+    -0.012845,
+    -0.035291,
+    0.116574,
+    -0.0,
+    0.0,
+    0.0,
+    0.118261,
+    -0.09281,
+    0.046867,
+    0.144031,
+    -0.395722,
+    0.0,
+    0.141261,
+    -0.388111,
+    0.0,
+    0.012763,
+    -0.035067,
+    0.112142,
+    -0.0,
+    0.0,
+    0.0,
+    -0.001602,
+    0.095349,
+    0.017887,
+    0.000859,
+    0.096059,
+    0.011962,
+    -0.0,
+    0.0,
+    0.0,
+    0.002553,
+    0.106673,
+    0.006,
+    -0.002919,
+    0.100511,
+    -0.032093,
+    -0.0,
+    0.0,
+    0.0,
+    -0.183739,
+    0.042608,
+    0.012466,
+    -0.27412,
+    -0.0,
+    0.0,
+    -0.157973,
+    -0.0,
+    0.0,
+    -0.0,
+    0.0,
+    0.0,
+    -0.032365,
+    -0.0,
+    0.0,
+    -0.0,
+    0.0,
+    0.0,
+    -0.0,
+    0.0,
+    0.0,
+    0.185747,
+    0.029775,
+    0.020521,
+    0.263606,
+    -0.0,
+    0.0,
+    0.149879,
+    -0.0,
+    0.0,
+    -0.0,
+    0.0,
+    0.0,
+    0.033532,
+    -0.0,
+    0.0,
+    -0.0,
+    0.0,
+    0.0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+PASS: Avatar and trial wait for the Start action
+PASS: CSV recording waits for participant confirmation
+PASS: Participant start menu is visible before the trial
+PASS: Participant number is normalized as P042
+PASS: Start menu selects either the 15 or 30 degree tunnel
+PASS: Start creates the existing avatar and begins the experiment
+PASS: Selected participant number and first trial are recorded
+PASS: Selected tunnel field is applied before recording the trial
+PASS: Start begins avatar walking without a second button press
+PASS: Menu, status and gaze debug visuals are hidden during the trial
+PASS: No headset text remains visible during the experiment

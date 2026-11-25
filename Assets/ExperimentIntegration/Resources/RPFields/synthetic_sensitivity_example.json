@@ -1,0 +1,819 @@
+{
+ "id": "synthetic_sensitivity_example",
+ "synthetic": true,
+ "description": "SYNTHETIC example of a per-location sensitivity map (6 deg grid, dB values invented: falling with eccentricity, lower superiorly). Shows the format for static-perimetry data; not a patient field.",
+ "source": "synthetic",
+ "measuredWith": "none",
+ "edgeDeg": 2.0,
+ "dbBlind": 0,
+ "dbFull": 25,
+ "interpolationRadiusDeg": 7,
+ "left": {
+  "points": [
+   {
+    "xDeg": -27,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -27,
+    "yDeg": -3,
+    "db": 0.0
+   },
+   {
+    "xDeg": -27,
+    "yDeg": 3,
+    "db": 0.0
+   },
+   {
+    "xDeg": -27,
+    "yDeg": 9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": -3,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": 3,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": 9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": -3,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": 3,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": 9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": -27,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": -3,
+    "db": 5.3
+   },
+   {
+    "xDeg": -9,
+    "yDeg": 3,
+    "db": 1.3
+   },
+   {
+    "xDeg": -9,
+    "yDeg": 9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": 27,
+    "db": 0.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": -27,
+    "db": 0.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": -9,
+    "db": 5.3
+   },
+   {
+    "xDeg": -3,
+    "yDeg": -3,
+    "db": 19.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": 3,
+    "db": 15.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": 9,
+    "db": 1.3
+   },
+   {
+    "xDeg": -3,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": 27,
+    "db": 0.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": -27,
+    "db": 0.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": -9,
+    "db": 5.3
+   },
+   {
+    "xDeg": 3,
+    "yDeg": -3,
+    "db": 19.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": 3,
+    "db": 15.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": 9,
+    "db": 1.3
+   },
+   {
+    "xDeg": 3,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": 27,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": -27,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": -3,
+    "db": 5.3
+   },
+   {
+    "xDeg": 9,
+    "yDeg": 3,
+    "db": 1.3
+   },
+   {
+    "xDeg": 9,
+    "yDeg": 9,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": 27,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": -3,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": 3,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": 9,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": -3,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": 3,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": 9,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 27,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": 27,
+    "yDeg": -3,
+    "db": 0.0
+   },
+   {
+    "xDeg": 27,
+    "yDeg": 3,
+    "db": 0.0
+   },
+   {
+    "xDeg": 27,
+    "yDeg": 9,
+    "db": 0.0
+   }
+  ]
+ },
+ "right": {
+  "points": [
+   {
+    "xDeg": -27,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -27,
+    "yDeg": -3,
+    "db": 0.0
+   },
+   {
+    "xDeg": -27,
+    "yDeg": 3,
+    "db": 0.0
+   },
+   {
+    "xDeg": -27,
+    "yDeg": 9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": -3,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": 3,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": 9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -21,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": -3,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": 3,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": 9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -15,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": -27,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": -3,
+    "db": 5.3
+   },
+   {
+    "xDeg": -9,
+    "yDeg": 3,
+    "db": 1.3
+   },
+   {
+    "xDeg": -9,
+    "yDeg": 9,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -9,
+    "yDeg": 27,
+    "db": 0.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": -27,
+    "db": 0.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": -9,
+    "db": 5.3
+   },
+   {
+    "xDeg": -3,
+    "yDeg": -3,
+    "db": 19.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": 3,
+    "db": 15.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": 9,
+    "db": 1.3
+   },
+   {
+    "xDeg": -3,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": -3,
+    "yDeg": 27,
+    "db": 0.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": -27,
+    "db": 0.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": -9,
+    "db": 5.3
+   },
+   {
+    "xDeg": 3,
+    "yDeg": -3,
+    "db": 19.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": 3,
+    "db": 15.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": 9,
+    "db": 1.3
+   },
+   {
+    "xDeg": 3,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 3,
+    "yDeg": 27,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": -27,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": -3,
+    "db": 5.3
+   },
+   {
+    "xDeg": 9,
+    "yDeg": 3,
+    "db": 1.3
+   },
+   {
+    "xDeg": 9,
+    "yDeg": 9,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 9,
+    "yDeg": 27,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": -3,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": 3,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": 9,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 15,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": -21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": -15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": -3,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": 3,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": 9,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": 15,
+    "db": 0.0
+   },
+   {
+    "xDeg": 21,
+    "yDeg": 21,
+    "db": 0.0
+   },
+   {
+    "xDeg": 27,
+    "yDeg": -9,
+    "db": 0.0
+   },
+   {
+    "xDeg": 27,
+    "yDeg": -3,
+    "db": 0.0
+   },
+   {
+    "xDeg": 27,
+    "yDeg": 3,
+    "db": 0.0
+   },
+   {
+    "xDeg": 27,
+    "yDeg": 9,
+    "db": 0.0
+   }
+  ]
+ }
+}

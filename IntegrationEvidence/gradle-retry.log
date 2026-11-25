@@ -1,0 +1,147 @@
+To honour the JVM settings for this build a single-use Daemon process will be forked. For more on this, please refer to https://docs.gradle.org/8.11/userguide/gradle_daemon.html#sec:disabling_the_daemon in the Gradle documentation.
+Daemon will be stopped at the end of the build 
+
+> Configure project :unityLibrary
+Variant 'debug', will keep symbols in binaries for:
+  'libunity.so'
+  'libil2cpp.so'
+  'libmain.so'
+Variant 'release', symbols will be stripped from binaries.
+
+> Configure project :launcher
+Variant 'debug', will keep symbols in binaries for:
+  'libunity.so'
+  'libil2cpp.so'
+  'libmain.so'
+Variant 'release', symbols will be stripped from binaries.
+
+> Task :unityLibrary:xrmanifest.androidlib:preBuild UP-TO-DATE
+> Task :launcher:preBuild UP-TO-DATE
+> Task :unityLibrary:preBuild UP-TO-DATE
+> Task :unityLibrary:xrmanifest.androidlib:preDebugBuild UP-TO-DATE
+> Task :launcher:preDebugBuild UP-TO-DATE
+> Task :unityLibrary:preDebugBuild UP-TO-DATE
+> Task :launcher:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :unityLibrary:xrmanifest.androidlib:writeDebugAarMetadata
+> Task :unityLibrary:generateDebugResValues
+> Task :launcher:generateDebugResValues
+> Task :launcher:javaPreCompileDebug
+> Task :unityLibrary:writeDebugAarMetadata
+> Task :unityLibrary:xrmanifest.androidlib:generateDebugResValues
+> Task :unityLibrary:xrmanifest.androidlib:generateDebugResources
+> Task :launcher:generateDebugResources
+> Task :unityLibrary:generateDebugResources
+> Task :unityLibrary:xrmanifest.androidlib:packageDebugResources
+> Task :unityLibrary:xrmanifest.androidlib:extractDeepLinksDebug
+> Task :unityLibrary:packageDebugResources
+> Task :launcher:packageDebugResources
+> Task :unityLibrary:extractDeepLinksDebug
+> Task :unityLibrary:xrmanifest.androidlib:compileDebugLibraryResources
+
+> Task :unityLibrary:processDebugManifest
+C:\Unity\FootstepsPredictions1_PupilLabs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-138 Warning:
+	meta-data#com.oculus.supportedDevices@android:value was tagged at AndroidManifest.xml:14 to replace other declarations but no other declaration present
+
+> Task :unityLibrary:xrmanifest.androidlib:processDebugManifest
+package="com.UnityTechnologies.XR.Manifest" found in source AndroidManifest.xml: C:\Unity\FootstepsPredictions1_PupilLabs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml.
+Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
+Recommendation: remove package="com.UnityTechnologies.XR.Manifest" from the source AndroidManifest.xml: C:\Unity\FootstepsPredictions1_PupilLabs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml.
+
+> Task :unityLibrary:compileDebugLibraryResources
+> Task :unityLibrary:javaPreCompileDebug
+> Task :unityLibrary:xrmanifest.androidlib:javaPreCompileDebug
+> Task :unityLibrary:xrmanifest.androidlib:mergeDebugShaders
+> Task :unityLibrary:mergeDebugShaders
+> Task :unityLibrary:xrmanifest.androidlib:compileDebugShaders NO-SOURCE
+> Task :unityLibrary:compileDebugShaders NO-SOURCE
+> Task :unityLibrary:generateDebugAssets UP-TO-DATE
+> Task :unityLibrary:xrmanifest.androidlib:generateDebugAssets UP-TO-DATE
+> Task :unityLibrary:xrmanifest.androidlib:packageDebugAssets
+> Task :unityLibrary:xrmanifest.androidlib:processDebugJavaRes NO-SOURCE
+> Task :unityLibrary:xrmanifest.androidlib:mergeDebugJniLibFolders
+> Task :unityLibrary:xrmanifest.androidlib:mergeDebugNativeLibs NO-SOURCE
+> Task :unityLibrary:xrmanifest.androidlib:parseDebugLocalResources
+> Task :unityLibrary:xrmanifest.androidlib:copyDebugJniLibsProjectOnly
+> Task :unityLibrary:xrmanifest.androidlib:stripDebugDebugSymbols NO-SOURCE
+> Task :unityLibrary:parseDebugLocalResources
+> Task :unityLibrary:xrmanifest.androidlib:copyDebugJniLibsProjectAndLocalJars
+> Task :unityLibrary:xrmanifest.androidlib:extractDeepLinksForAarDebug
+> Task :unityLibrary:xrmanifest.androidlib:prepareDebugArtProfile
+> Task :unityLibrary:xrmanifest.androidlib:prepareLintJarForPublish
+> Task :unityLibrary:xrmanifest.androidlib:generateDebugRFile
+> Task :launcher:checkDebugAarMetadata
+> Task :unityLibrary:xrmanifest.androidlib:compileDebugJavaWithJavac NO-SOURCE
+> Task :launcher:mapDebugSourceSetPaths
+> Task :unityLibrary:xrmanifest.androidlib:bundleLibRuntimeToJarDebug
+> Task :unityLibrary:xrmanifest.androidlib:bundleLibCompileToJarDebug
+> Task :unityLibrary:xrmanifest.androidlib:bundleLibRuntimeToDirDebug
+> Task :unityLibrary:xrmanifest.androidlib:mergeDebugJavaResource
+> Task :unityLibrary:xrmanifest.androidlib:extractDebugAnnotations
+> Task :unityLibrary:xrmanifest.androidlib:mergeDebugGeneratedProguardFiles
+> Task :unityLibrary:xrmanifest.androidlib:mergeDebugConsumerProguardFiles
+> Task :unityLibrary:xrmanifest.androidlib:syncDebugLibJars
+> Task :unityLibrary:xrmanifest.androidlib:bundleDebugAar
+> Task :unityLibrary:xrmanifest.androidlib:assembleDebug
+> Task :unityLibrary:packageDebugAssets
+> Task :unityLibrary:generateDebugRFile
+> Task :unityLibrary:processDebugJavaRes
+> Task :launcher:parseDebugLocalResources
+> Task :launcher:createDebugCompatibleScreenManifests
+> Task :launcher:extractDeepLinksDebug
+> Task :launcher:mergeDebugResources
+
+> Task :launcher:processDebugMainManifest
+[:MetaMovementSDK_AIMotionSynthesizer:] C:\Users\AmplitLab\.gradle\caches\8.11\transforms\71b140c93df31b4b867cd38d9f11d335\transformed\jetified-MetaMovementSDK_AIMotionSynthesizer\AndroidManifest.xml Warning:
+	Namespace 'com.oculus.Integration' is used in multiple modules and/or libraries: :MetaMovementSDK_AIMotionSynthesizer:, :InteractionSdk:, :MetaMovementSDK_Utility:, :OVRPlugin:. Please ensure that all modules and libraries have a unique namespace. For more information, See https://developer.android.com/studio/build/configure-app-module#set-namespace
+
+> Task :launcher:processDebugManifest
+> Task :launcher:mergeDebugShaders
+> Task :launcher:compileDebugShaders NO-SOURCE
+> Task :launcher:generateDebugAssets UP-TO-DATE
+> Task :launcher:mergeDebugAssets
+> Task :launcher:processDebugJavaRes NO-SOURCE
+> Task :launcher:mergeDebugJniLibFolders
+> Task :launcher:compressDebugAssets
+> Task :launcher:checkDebugDuplicateClasses
+> Task :launcher:validateSigningDebug
+> Task :launcher:writeDebugAppMetadata
+> Task :launcher:writeDebugSigningConfigVersions
+> Task :launcher:processDebugManifestForPackage
+> Task :unityLibrary:compileDebugJavaWithJavac
+> Task :unityLibrary:bundleLibRuntimeToJarDebug
+> Task :unityLibrary:bundleLibCompileToJarDebug
+> Task :unityLibrary:bundleLibRuntimeToDirDebug
+> Task :launcher:mergeDebugJavaResource
+> Task :launcher:processDebugResources
+> Task :launcher:compileDebugJavaWithJavac NO-SOURCE
+> Task :launcher:mergeLibDexDebug
+> Task :launcher:dexBuilderDebug
+> Task :launcher:desugarDebugFileDependencies
+> Task :launcher:mergeProjectDexDebug
+> Task :unityLibrary:configureCMakeDebug[arm64-v8a]
+> Task :unityLibrary:buildCMakeDebug[arm64-v8a]
+> Task :unityLibrary:mergeDebugJniLibFolders
+> Task :unityLibrary:extractDebugAnnotations
+> Task :unityLibrary:extractDeepLinksForAarDebug
+> Task :unityLibrary:mergeDebugGeneratedProguardFiles
+> Task :unityLibrary:mergeDebugConsumerProguardFiles
+> Task :unityLibrary:prepareDebugArtProfile
+> Task :unityLibrary:prepareLintJarForPublish
+> Task :unityLibrary:mergeDebugJavaResource
+> Task :unityLibrary:syncDebugLibJars
+> Task :launcher:mergeDebugGlobalSynthetics
+> Task :unityLibrary:mergeDebugNativeLibs
+> Task :unityLibrary:copyDebugJniLibsProjectOnly
+> Task :unityLibrary:stripDebugDebugSymbols
+> Task :unityLibrary:copyDebugJniLibsProjectAndLocalJars
+> Task :launcher:mergeExtDexDebug
+> Task :launcher:mergeDebugNativeLibs
+> Task :launcher:stripDebugDebugSymbols
+> Task :launcher:packageDebug
+> Task :launcher:createDebugApkListingFileRedirect
+> Task :launcher:assembleDebug
+> Task :unityLibrary:bundleDebugAar
+> Task :unityLibrary:assembleDebug
+
+BUILD SUCCESSFUL in 2m 11s
+93 actionable tasks: 93 executed

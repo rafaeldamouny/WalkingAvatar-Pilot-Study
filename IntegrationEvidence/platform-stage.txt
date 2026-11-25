@@ -1,0 +1,1 @@
+PASS: platform compiled; existing avatar, valid humanoid rig, animation controller, XR camera, Neon provider, Addressables and RP scene wired. Hardware gaze/calibration and stereo rendering remain unverified.

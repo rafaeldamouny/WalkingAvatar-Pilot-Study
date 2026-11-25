@@ -1,0 +1,7 @@
+Assets/RP_Character/rp_eric_rigged_001/Materials/rp_eric_rigged_001_gm.tga
+Packages/com.unity.render-pipelines.universal/Editor/AssetVersion.cs
+Assets/RP_Character/rp_eric_rigged_001/Materials/rp_eric_rigged_001_mat.mat
+Assets/RP_Character/rp_eric_rigged_001/Materials/rp_eric_rigged_001_norm.jpg
+Assets/RP_Character/rp_eric_rigged_001/Materials/rp_eric_rigged_001_dif.jpg
+Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+Assets/RP_Character/rp_eric_rigged_001/rp_eric_rigged_001_u3d.fbx

@@ -1,0 +1,9 @@
+Final build: Succeeded; errors=0; size=1307219257.
+Quest streamed install: Success.
+Launch requested successfully: com.amplitlab.neonwalking/com.unity3d.player.UnityPlayerGameActivity.
+Serialized scene FoV=30; minimum Hz=2; speed coefficient=0.03; speed filter Hz=8; invalid hold=0.12 seconds.
+Algorithm includes 0.15-second gentle recovery before speed adaptation resumes.
+Nine focused smoothing/recovery checks passed.
+Final runtime CSV check could not complete because USB authorization was lost after launch; waiting diagnostic was stopped.
+On-device perceived smoothness awaits participant confirmation.
+Keep FoV=30 until user asks to return to 15.

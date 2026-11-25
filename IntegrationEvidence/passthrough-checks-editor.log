@@ -1,0 +1,1220 @@
+Built from '6000.2/staging' branch; Version is '6000.2.4f1 (17550c9bb584) revision 1529100'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-AmplitLab" at "2026-09-15T14:33:44.8754303Z"
+OS: 'Windows 11  (10.0.26200) 64bit Professional' Language: 'en' Physical Memory: 32459 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+Date: 2026-09-15T14:33:44Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Unity.exe
+-batchmode
+-buildTarget
+Android
+-projectPath
+C:\Unity\FootstepsPredictions1_PupilLabs
+-executeMethod
+WalkingEyeExperiment.Editor.IntegrationChecks.Run
+-logFile
+C:\Unity\FootstepsPredictions1_PupilLabs\IntegrationEvidence\passthrough-checks-editor.log
+Successfully changed project path to: C:\Unity\FootstepsPredictions1_PupilLabs
+C:/Unity/FootstepsPredictions1_PupilLabs
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [43572]  Target information:
+
+Player connection [43572]  * "[IP] 192.168.56.1 [Port] 55504 [Flags] 2 [Guid] 1488274324 [EditorId] 1488274324 [Version] 1048832 [Id] WindowsEditor(7,Edu213820SzpiroLab) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [43572]  * "[IP] 172.20.10.3 [Port] 55504 [Flags] 2 [Guid] 1488274324 [EditorId] 1488274324 [Version] 1048832 [Id] WindowsEditor(7,Edu213820SzpiroLab) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [43572] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [43572] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 24264, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.3+a4e98f1
+  Session Id:              8d2e6fd12a234aa49aecdbd4e4c3f236
+  Correlation Id:          2683228d57b49f31aabc619e1fde08ad
+  External correlation Id: 7421664743662143214
+  Machine Id:              f96v69mSeQE4+Uk4z1lngPZaqUY=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-AmplitLab" (connect: 0.00s, validation: 0.00s, handshake: 0.05s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-AmplitLab-notifications" at "2026-09-15T14:33:44.9290577Z"
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-DJ2Y-KBS9-XJEX-3M7N-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: 18967805633841-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-DJ2Y-KBS9-XJEX-3M7N-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: 18967805633841-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Module] Licensing Background thread has ended after 0.06s
+[Package Manager] Connected to IPC stream "Upm-31420" after 0.3 seconds.
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-DJ2Y-KBS9-XJEX-3M7N-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: 18967805633841-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Targeting platform: Android
+Refreshing native plugins compatible for Editor in 7.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.2.4f1 (17550c9bb584)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.2.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Unity/FootstepsPredictions1_PupilLabs/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Ti Laptop GPU (ID=0x24a0)
+    Vendor:   NVIDIA
+    VRAM:     8018 MB
+    Driver:   32.0.15.6607
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Meta/MRUK/Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.2.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.2.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.2.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56420
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.003146 seconds.
+- Loaded All Assemblies, in  0.385 seconds
+Native extension for Android target not found
+Unauthorized device detected, Id: 2G0YC5ZH2Z01YS, please add debug authorization and reconnect.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:LogFormat (UnityEngine.LogType,string,object[])
+UnityEngine.Debug:LogFormat (string,object[])
+UnityEditor.Android.AndroidDeploymentTargetsExtension:GetKnownTargets (UnityEditor.DeploymentTargets.IDeploymentTargetsMainThreadContext,UnityEditor.ProgressHandler) (at /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/DeploymentTargets/AndroidDeploymentTargetsExtension.cs:417)
+UnityEditor.Android.TargetScanWorker:ScanSync () (at /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/TargetScanWorker.cs:164)
+UnityEditor.Android.TargetExtension:OnUsbDevicesChanged (UnityEditor.Hardware.UsbDevice[]) (at /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/ExtensionModule.cs:114)
+UnityEditor.Android.TargetExtension:OnLoad () (at /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/ExtensionModule.cs:75)
+UnityEditor.Modules.ModuleManager:InitializePlatformSupportModules ()
+
+(Filename: /home/bokken/build/output/unity/unity/PlatformDependent/AndroidPlayer/Editor/Managed/DeploymentTargets/AndroidDeploymentTargetsExtension.cs Line: 417)
+
+Android Extension - Scanning For ADB Devices 5314 ms
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  5.686 seconds
+Domain Reload Profiling: 6066ms
+	BeginReloadAssembly (123ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (51ms)
+	LoadAllAssembliesAndSetupDomain (159ms)
+		LoadAssemblies (118ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (156ms)
+			TypeCache.Refresh (154ms)
+				TypeCache.ScanAssembly (142ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (5686ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (5653ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5423ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (57ms)
+			ProcessInitializeOnLoadAttributes (119ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-DJ2Y-KBS9-XJEX-3M7N-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: 18967805633841-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-DJ2Y-KBS9-XJEX-3M7N-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: 18967805633841-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Application.AssetDatabase Initial Refresh Start
+Package Manager log level set to [2]
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 75 packages:
+  Packages from [https://packages.unity.com]:
+    com.meta.xr.mrutilitykit@83.0.1 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.meta.xr.mrutilitykit@31f30b04be0b)
+    com.meta.xr.sdk.core@83.0.1 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.meta.xr.sdk.core@06273138c40d)
+    com.meta.xr.sdk.interaction.ovr@83.0.1 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.meta.xr.sdk.interaction.ovr@ac1e4e09e6a6)
+    com.meta.xr.sdk.interaction.ovr.samples@69.0.1 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.meta.xr.sdk.interaction.ovr.samples@ff3e4bd2b120)
+    com.unity.ai.navigation@2.0.9 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.ai.navigation@5218e4bf7edc)
+    com.unity.cinemachine@3.1.6 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.cinemachine@285f38545487)
+    com.unity.ide.rider@3.0.36 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db)
+    com.unity.ide.visualstudio@2.0.23 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13)
+    com.unity.inputsystem@1.14.2 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.inputsystem@be6c4fd0abf5)
+    com.unity.timeline@1.8.9 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.timeline@6b9e48457ddb)
+    com.unity.visualscripting@1.9.7 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.visualscripting@6279e2b7c485)
+    com.unity.xr.management@4.5.4 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.xr.management@e3a3882b360a)
+    com.unity.xr.openxr@1.15.1 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.xr.openxr@05fb1a7d75d1)
+    com.unity.addressables@2.7.2 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.addressables@d929cbc70804)
+    com.unity.xr.interaction.toolkit@3.2.1 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.xr.interaction.toolkit@76258c00be3e)
+    com.unity.xr.core-utils@2.5.3 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.xr.core-utils@f0450cbac8d6)
+    com.unity.xr.legacyinputhelpers@2.1.12 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.xr.legacyinputhelpers@b7579e86f3b4)
+    com.unity.splines@2.8.1 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.splines@b909627b5095)
+    com.unity.burst@1.8.24 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.burst@f7a407abf4d5)
+    com.meta.xr.sdk.interaction@83.0.1 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.meta.xr.sdk.interaction@9cc3f2563948)
+    com.unity.nuget.newtonsoft-json@3.2.1 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0)
+    com.unity.mathematics@1.3.2 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.mathematics@8017b507cc74)
+    com.unity.profiling.core@1.0.2 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.profiling.core@aac7b93912bc)
+    com.unity.scriptablebuildpipeline@2.4.1 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.scriptablebuildpipeline@4fce4ca980cb)
+    com.unity.searcher@4.9.3 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.searcher@1e17ce91558d)
+    com.unity.collections@2.5.7 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.collections@d49facba0036)
+    com.unity.settings-manager@2.1.0 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.settings-manager@41738c275190)
+    com.unity.nuget.mono-cecil@1.11.5 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.nuget.mono-cecil@d78732e851eb)
+    com.unity.test-framework.performance@3.1.0 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed)
+  Built-in packages:
+    com.unity.multiplayer.center@1.0.0 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546)
+    com.unity.render-pipelines.universal@17.2.0 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.render-pipelines.universal@a0b8019ed083)
+    com.unity.test-framework@1.5.1 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.test-framework@038a2b0cacd2)
+    com.unity.ugui@2.0.0 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.ugui@f33505fcd0e6)
+    com.unity.modules.accessibility@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.accessibility)
+    com.unity.modules.ai@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d)
+    com.unity.modules.screencapture@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics)
+    com.unity.modules.tilemap@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap)
+    com.unity.modules.ui@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vehicles@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video)
+    com.unity.modules.vr@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr)
+    com.unity.modules.wind@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.hierarchycore)
+    com.unity.ext.nunit@2.0.5 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.ext.nunit@031a54704bff)
+    com.unity.render-pipelines.core@17.2.0 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.render-pipelines.core@e2a954003fc5)
+    com.unity.shadergraph@17.2.0 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.shadergraph@2872b31a9415)
+    com.unity.render-pipelines.universal-config@17.0.3 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.render-pipelines.universal-config@8dc1aab4af1d)
+    com.unity.textmeshpro@5.0.0 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.textmeshpro@53f43edfd2e0)
+    com.unity.rendering.light-transport@1.0.1 (location: C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.rendering.light-transport@2c9279f90d7c)
+  Embedded packages:
+    com.pupil-labs.neon-xr.core@file:C:\Unity\FootstepsPredictions1_PupilLabs\Packages\com.pupil-labs.neon-xr.core (location: C:\Unity\FootstepsPredictions1_PupilLabs\Packages\com.pupil-labs.neon-xr.core)
+  Local packages:
+    com.meta.xr.sdk.movement@file:C:\Users\AmplitLab\Downloads\Unity-Movement-83.0.0\Unity-Movement-83.0.0 (location: C:\Users\AmplitLab\Downloads\Unity-Movement-83.0.0\Unity-Movement-83.0.0)
+[Subsystems] Looking for new subsystems at path C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.xr.openxr@05fb1a7d75d1
+[Subsystems] Novel subsystem found at Library/PackageCache/com.unity.xr.openxr@05fb1a7d75d1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.2.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Unity/FootstepsPredictions1_PupilLabs/Assets
+[Subsystems] Discovering subsystems at path C:\Unity\FootstepsPredictions1_PupilLabs\Library\PackageCache\com.unity.xr.openxr@05fb1a7d75d1
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr@05fb1a7d75d1/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.openxr@05fb1a7d75d1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Library/PackageCache/com.unity.xr.openxr@05fb1a7d75d1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  meshings in Library/PackageCache/com.unity.xr.openxr@05fb1a7d75d1/Runtime/UnitySubsystemsManifest.json.
+[Package Manager] Done registering packages in 0.03 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[ScriptCompilation] Requested script compilation because: Assetdatabase observed changes in script compilation related files
+Starting: C:\Program Files\Unity\Hub\Editor\6000.2.4f1\Editor\Data\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Unity/FootstepsPredictions1_PupilLabs
+DisplayProgressbar: Compiling Scripts
+ExitCode: 0 Duration: 2s673ms
+[1322/1774  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[1770/1774  1s] Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+Assets\Survivalist\StarterAssets\Editor\ScriptingDefineUtils.cs(10,27): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+
+Assets\Editor\ExperimentSceneSetup.cs(91,13): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindFirstObjectByType instead or if finding any instance is acceptable the faster Object.FindAnyObjectByType'
+
+Assets\Survivalist\StarterAssets\Editor\ScriptingDefineUtils.cs(17,27): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+
+Assets\Survivalist\StarterAssets\Editor\ScriptingDefineUtils.cs(21,17): warning CS0618: 'PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup, string)' is obsolete: 'Use SetScriptingDefineSymbols(NamedBuildTarget buildTarget, string defines) instead'
+
+Assets\Survivalist\StarterAssets\Editor\ScriptingDefineUtils.cs(28,27): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+
+Assets\Survivalist\StarterAssets\Editor\ScriptingDefineUtils.cs(32,17): warning CS0618: 'PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup, string)' is obsolete: 'Use SetScriptingDefineSymbols(NamedBuildTarget buildTarget, string defines) instead'
+
+Assets\ExperimentIntegration\Editor\IntegrationBuild.cs(184,13): warning CS0618: 'OVRPassthroughLayer.projectionSurfaceType' is obsolete: 'Surface projected passthrough is being deprecated and support for it will be removed in a future release.'
+
+Assets\ExperimentIntegration\Editor\IntegrationBuild.cs(184,41): warning CS0618: 'OVRPassthroughLayer.ProjectionSurfaceType' is obsolete: 'Surface projected passthrough is being deprecated and support for it will be removed in a future release.'
+
+Assets\ExperimentIntegration\Editor\IntegrationBuild.cs(185,13): warning CS0618: 'OVRPassthroughLayer.overlayType' is obsolete: 'Passthrough flexible layering is being deprecated and support for it will be removed in a future release. Moving forward, there will be only one background Passthrough layer rendered beneath the eye buffer.'
+
+Assets\Survivalist\StarterAssets\Editor\StarterAssetsDeployMenu.cs(122,76): warning CS0618: 'CinemachineVirtualCamera' is obsolete: 'CinemachineVirtualCamera is deprecated. Use CinemachineCamera instead.'
+
+Assets\Survivalist\StarterAssets\Editor\ThirdPersonStarterAssetsDeployMenu.cs(20,42): warning CS0618: 'Object.FindObjectsOfType<T>()' is obsolete: 'Object.FindObjectsOfType has been deprecated. Use Object.FindObjectsByType instead which lets you decide whether you need the results sorted or not.  FindObjectsOfType sorts the results by InstanceID but if you do not need this using FindObjectSortMode.None is considerably faster.'
+
+Assets\Survivalist\StarterAssets\Editor\ThirdPersonStarterAssetsDeployMenu.cs(38,42): warning CS0618: 'Object.FindObjectsOfType<T>()' is obsolete: 'Object.FindObjectsOfType has been deprecated. Use Object.FindObjectsByType instead which lets you decide whether you need the results sorted or not.  FindObjectsOfType sorts the results by InstanceID but if you do not need this using FindObjectSortMode.None is considerably faster.'
+
+Assets\ExperimentIntegration\Editor\IntegrationChecks.cs(172,126): warning CS0618: 'OVRPassthroughLayer.overlayType' is obsolete: 'Passthrough flexible layering is being deprecated and support for it will be removed in a future release. Moving forward, there will be only one background Passthrough layer rendered beneath the eye buffer.'
+[1771/1774  0s] ILPostProcess Library/Bee/artifacts/1300b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll, with 145 defines and 410 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[1772/1774  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+[1773/1774  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+*** Tundra build success (2.63 seconds), 5 items updated, 1774 evaluated
+Assets\Survivalist\StarterAssets\Editor\ScriptingDefineUtils.cs(10,27): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+Assets\Editor\ExperimentSceneSetup.cs(91,13): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindFirstObjectByType instead or if finding any instance is acceptable the faster Object.FindAnyObjectByType'
+Assets\Survivalist\StarterAssets\Editor\ScriptingDefineUtils.cs(17,27): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+Assets\Survivalist\StarterAssets\Editor\ScriptingDefineUtils.cs(21,17): warning CS0618: 'PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup, string)' is obsolete: 'Use SetScriptingDefineSymbols(NamedBuildTarget buildTarget, string defines) instead'
+Assets\Survivalist\StarterAssets\Editor\ScriptingDefineUtils.cs(28,27): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+Assets\Survivalist\StarterAssets\Editor\ScriptingDefineUtils.cs(32,17): warning CS0618: 'PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup, string)' is obsolete: 'Use SetScriptingDefineSymbols(NamedBuildTarget buildTarget, string defines) instead'
+Assets\ExperimentIntegration\Editor\IntegrationBuild.cs(184,13): warning CS0618: 'OVRPassthroughLayer.projectionSurfaceType' is obsolete: 'Surface projected passthrough is being deprecated and support for it will be removed in a future release.'
+Assets\ExperimentIntegration\Editor\IntegrationBuild.cs(184,41): warning CS0618: 'OVRPassthroughLayer.ProjectionSurfaceType' is obsolete: 'Surface projected passthrough is being deprecated and support for it will be removed in a future release.'
+Assets\ExperimentIntegration\Editor\IntegrationBuild.cs(185,13): warning CS0618: 'OVRPassthroughLayer.overlayType' is obsolete: 'Passthrough flexible layering is being deprecated and support for it will be removed in a future release. Moving forward, there will be only one background Passthrough layer rendered beneath the eye buffer.'
+Assets\Survivalist\StarterAssets\Editor\StarterAssetsDeployMenu.cs(122,76): warning CS0618: 'CinemachineVirtualCamera' is obsolete: 'CinemachineVirtualCamera is deprecated. Use CinemachineCamera instead.'
+Assets\Survivalist\StarterAssets\Editor\ThirdPersonStarterAssetsDeployMenu.cs(20,42): warning CS0618: 'Object.FindObjectsOfType<T>()' is obsolete: 'Object.FindObjectsOfType has been deprecated. Use Object.FindObjectsByType instead which lets you decide whether you need the results sorted or not.  FindObjectsOfType sorts the results by InstanceID but if you do not need this using FindObjectSortMode.None is considerably faster.'
+Assets\Survivalist\StarterAssets\Editor\ThirdPersonStarterAssetsDeployMenu.cs(38,42): warning CS0618: 'Object.FindObjectsOfType<T>()' is obsolete: 'Object.FindObjectsOfType has been deprecated. Use Object.FindObjectsByType instead which lets you decide whether you need the results sorted or not.  FindObjectsOfType sorts the results by InstanceID but if you do not need this using FindObjectSortMode.None is considerably faster.'
+Assets\ExperimentIntegration\Editor\IntegrationChecks.cs(172,126): warning CS0618: 'OVRPassthroughLayer.overlayType' is obsolete: 'Passthrough flexible layering is being deprecated and support for it will be removed in a future release. Moving forward, there will be only one background Passthrough layer rendered beneath the eye buffer.'
+AssetDatabase: script compilation time: 3.162539s
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.082 seconds
+Script 'CharacterController' has the same name as built-in Unity component.
+AddComponent and GetComponent will not work with this script.
+'Packages/com.meta.xr.sdk.core/Editor/BuildingBlocks/BlocksWindowDetailsExtension.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.meta.xr.sdk.core/Editor/BuildingBlocks/BlocksWindow.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.meta.xr.sdk.core/Editor/BuildingBlocks/BlocksWindowCollectionsPageExtension.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 13.60 ms, found 17 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Refreshing native plugins compatible for Editor in 15.74 ms, found 17 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.173 seconds
+Domain Reload Profiling: 3244ms
+	BeginReloadAssembly (299ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (143ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (693ms)
+		LoadAssemblies (460ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (333ms)
+			TypeCache.Refresh (217ms)
+				TypeCache.ScanAssembly (200ms)
+			BuildScriptInfoCaches (91ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (2174ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1894ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (36ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (225ms)
+			ProcessInitializeOnLoadAttributes (1512ms)
+			ProcessInitializeOnLoadMethodAttributes (101ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 11.55 ms, found 17 plugins.
+Preloading 2 native plugins for Editor in 2.65 ms.
+Asset Pipeline Refresh (id=804646f7ee0a03f4dac162832b5e4a43): Total: 9.640 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=3047 ms
+		Asset DB Callback time: managed=2182 ms, native=60 ms
+		Scripting: domain reloads=1, domain reload time=1083 ms, compile time=3165 ms, other=101 ms
+		Project Asset Count: scripts=2749, non-scripts=4779
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 39.894ms
+	ApplyChangesToAssetFolders: 1.017ms
+	Scan: 316.060ms
+	OnSourceAssetsModified: 0.992ms
+	CategorizeAssetsWithTransientArtifact: 80.353ms
+	ProcessAssetsWithTransientArtifactChanges: 125.752ms
+	CategorizeAssets: 105.787ms
+	ImportOutOfDateAssets: 2219.606ms (-949.517ms without children)
+		CompileScripts: 3164.584ms
+		ReloadNativeAssets: 0.051ms
+		UnloadImportedAssets: 1.860ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 1.505ms
+		InitializingProgressBar: 0.001ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.001ms
+		OnDemandSchedulerStart: 1.121ms
+	PostProcessAllAssets: 2189.389ms
+	Hotreload: 15.991ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.002ms
+	UnloadStreamsBegin: 2.477ms
+	PersistCurrentRevisions: 0.318ms
+	UnloadStreamsEnd: 0.002ms
+	GenerateScriptTypeHashes: 13.948ms
+	Untracked: 4542.390ms
+
+Application.AssetDatabase Initial Refresh End
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Scanning for USB devices : 2.504ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Neon Walking Experiment
+Unloading 232 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 9540 unused Assets / (5.9 MB). Loaded Objects now: 13089.
+Memory consumption went from 327.4 MB to 321.5 MB.
+Total: 18.234800 ms (FindLiveObjects: 1.014200 ms CreateObjectMapping: 0.996100 ms MarkObjects: 12.660500 ms  DeleteObjects: 3.562500 ms)
+
+Opening scene 'Assets/Scenes/NeonWalkingExperiment.unity'
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/NeonWalkingExperiment.unity'
+	Deserialize:            14.506 ms
+	Integration:            63.883 ms
+	Integration of assets:  4.715 ms
+	Thread Wait Time:       0.173 ms
+	Total Operation Time:   83.276 ms
+Unloading 2 unused Assets / (1.0 KB). Loaded Objects now: 14328.
+Memory consumption went from 291.5 MB to 291.5 MB.
+Total: 12.909000 ms (FindLiveObjects: 0.678100 ms CreateObjectMapping: 0.585500 ms MarkObjects: 11.607200 ms  DeleteObjects: 0.037300 ms)
+
+[Project] Loading completed in 20.635 seconds
+	Project init time: 				17.967 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.260 seconds
+		Asset Database init time: 		0.510 seconds
+		Global illumination init time: 	0.003 seconds
+		Assemblies load time: 			6.092 seconds
+		Unity extensions init time: 	0.011 seconds
+		Asset Database refresh time: 	9.640 seconds
+	Scene opening time: 			2.597 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1789482845492,"processId":31420,"projectLoad":20.6347285,"projectInit":17.9667572,"templateInit":0.0,"packageManagerInit":0.2602009,"assetDatabaseInit":0.5102274,"globalIlluminationInit":0.0034917,"assembliesLoad":6.0921623,"unityExtensionsInit":0.0105351,"assetDatabaseRefresh":9.6401396,"sceneOpening":2.5973281}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1789482845492,"processId":31420,"editorVersion":"6000.2.4f1 (17550c9bb584)","branch":"6000.2/staging","buildType":"Release","platform":"Windows"}
+Reloading assemblies for play mode.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.713 seconds
+Refreshing native plugins compatible for Editor in 13.00 ms, found 17 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Refreshing native plugins compatible for Editor in 12.00 ms, found 17 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.860 seconds
+Domain Reload Profiling: 2564ms
+	BeginReloadAssembly (287ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (35ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (76ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (330ms)
+		LoadAssemblies (175ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (259ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (223ms)
+			ResolveRequiredComponents (25ms)
+	FinalizeReload (1861ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1383ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (35ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (206ms)
+			ProcessInitializeOnLoadAttributes (1007ms)
+			ProcessInitializeOnLoadMethodAttributes (117ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (61ms)
+Asset Pipeline Refresh (id=ce2454b03e879ca4796f7ab5515cb0a3): Total: 2.863 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=2056 ms
+		Asset DB Callback time: managed=71 ms, native=0 ms
+		Scripting: domain reloads=1, domain reload time=733 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=2749, non-scripts=4779
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 3.544ms
+	ApplyChangesToAssetFolders: 0.354ms
+	Scan: 0.001ms
+	OnSourceAssetsModified: 0.001ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 5.105ms
+	CategorizeAssets: 109.891ms
+	ImportOutOfDateAssets: 1901.560ms (1893.946ms without children)
+		CompileScripts: 1.465ms
+		CollectScriptTypesHashes: 2.418ms
+		ReloadNativeAssets: 2.129ms
+		UnloadImportedAssets: 0.004ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 1.191ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.001ms
+		OnDemandSchedulerStart: 0.405ms
+	PostProcessAllAssets: 71.214ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.309ms
+	UnloadStreamsBegin: 0.368ms
+	PersistCurrentRevisions: 0.365ms
+	UnloadStreamsEnd: 0.002ms
+	GenerateScriptTypeHashes: 15.983ms
+	Untracked: 770.263ms
+
+[XR] Time interace not found - delta time prediction disabled.
+[Subsystems] OpenXR XR Plugin successfully registered Provider for OpenXR Display
+[Subsystems] OpenXR XR Plugin successfully registered Provider for OpenXR Input
+[Subsystems] OpenXR XR Plugin successfully registered Provider for OpenXR Display
+[Subsystems] Loading plugin UnityOpenXR for subsystem OpenXR Display...
+[XR] [43572] [17:34:09.067][Info   ] Available Layers: (0)
+[XR] [43572] [17:34:10.296][Error  ] xrGetSystem: XR_ERROR_FORM_FACTOR_UNAVAILABLE
+[XR] [43572] [17:34:10.296][Info   ] 
+
+==== Start Unity OpenXR Diagnostic Report ====
+
+
+[XR] [43572] [17:34:10.296][Info   ] ==== Report Reason: Uncaught Exception ====
+
+
+[XR] [43572] [17:34:10.296][Info   ] ==== OpenXR Init Info ====
+[XR] [43572] [17:34:10.296][Info   ] 
+[XR] [43572] [17:34:10.296][Info   ] Stage 1 Missing Entry Points: (1)
+[XR] [43572] [17:34:10.296][Info   ]   xrInitializeLoaderKHR
+[XR] [43572] [17:34:10.296][Info   ] 
+[XR] [43572] [17:34:10.296][Info   ] ==== OpenXR Runtime Info ====
+[XR] [43572] [17:34:10.296][Info   ] 
+[XR] [43572] [17:34:10.296][Info   ] Available Runtime Extensions: (94)
+[XR] [43572] [17:34:10.296][Info   ]   XR_KHR_D3D11_enable: Version=11
+[XR] [43572] [17:34:10.296][Info   ]   XR_KHR_D3D12_enable: Version=11
+[XR] [43572] [17:34:10.296][Info   ]   XR_KHR_opengl_enable: Version=12
+[XR] [43572] [17:34:10.296][Info   ]   XR_KHR_vulkan_enable: Version=10
+[XR] [43572] [17:34:10.296][Info   ]   XR_KHR_vulkan_enable2: Version=4
+[XR] [43572] [17:34:10.296][Info   ]   XR_KHR_composition_layer_depth: Version=6
+[XR] [43572] [17:34:10.296][Info   ]   XR_KHR_win32_convert_performance_counter_time: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_KHR_convert_timespec_time: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_KHR_composition_layer_cube: Version=8
+[XR] [43572] [17:34:10.297][Info   ]   XR_KHR_composition_layer_cylinder: Version=4
+[XR] [43572] [17:34:10.297][Info   ]   XR_KHR_composition_layer_equirect: Version=3
+[XR] [43572] [17:34:10.297][Info   ]   XR_KHR_visibility_mask: Version=2
+[XR] [43572] [17:34:10.297][Info   ]   XR_KHR_composition_layer_color_scale_bias: Version=5
+[XR] [43572] [17:34:10.297][Info   ]   XR_KHR_maintenance1: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_win32_appcontainer_compatible: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_debug_utils: Version=5
+[XR] [43572] [17:34:10.297][Info   ]   XR_OCULUS_recenter_event: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_OCULUS_audio_device_guid: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_color_space: Version=3
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_display_refresh_rate: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_performance_metrics: Version=2
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_headset_id: Version=2
+[XR] [43572] [17:34:10.297][Info   ]   XR_OCULUS_ovrsession_handle: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_hand_interaction: Version=2
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_hand_tracking: Version=4
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_hand_tracking_mesh: Version=3
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_simultaneous_hands_and_controllers: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_hand_tracking_aim: Version=2
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_hand_tracking_capsules: Version=3
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_hand_tracking_data_source: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_hand_tracking_microgestures: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXTX2_stationary_reference_space: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_body_tracking: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_body_tracking_full_body: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_body_tracking_fidelity: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_body_tracking_calibration: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_eye_tracking_social: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_face_tracking: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_face_tracking2: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_passthrough: Version=5
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_passthrough_layer_resumed_event: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_triangle_mesh: Version=2
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_passthrough_color_lut: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_passthrough_preferences: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_render_model: Version=4
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_spatial_entity_container: Version=2
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_scene: Version=4
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_spatial_entity: Version=3
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_spatial_entity_storage: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_spatial_entity_query: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_spatial_entity_user: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_spatial_entity_storage_batch: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_spatial_entity_sharing: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_spatial_entity_persistence: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_spatial_entity_discovery: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_spatial_entity_group_sharing: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_spatial_entity_mesh: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_spatial_entity_room_mesh: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_spatial_entity_sharing: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_METAX1_spatial_entity_marker: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_spatial_entity: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_spatial_anchor: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_spatial_persistence: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_spatial_persistence_operations: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_spatial_plane_tracking: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_spatial_marker_tracking: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_boundary_visibility: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_colocation_discovery: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_METAX1_dynamic_object_tracker: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_dynamic_object_tracker: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_dynamic_object_keyboard: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_environment_depth: Version=2
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_environment_raycast: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_METAX1_passthrough_camera_data: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_META_virtual_keyboard: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_local_floor: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_active_action_set_priority: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_future: Version=2
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_palm_pose: Version=3
+[XR] [43572] [17:34:10.297][Info   ]   XR_EXT_haptic_parametric: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_haptic_amplitude_envelope: Version=1
+[XR] [43572] [17:34:10.297][Info   ]   XR_FB_haptic_pcm: Version=1
+[XR] [43572] [17:34:10.298][Info   ]   XR_FB_touch_controller_pro: Version=1
+[XR] [43572] [17:34:10.298][Info   ]   XR_META_touch_controller_plus: Version=1
+[XR] [43572] [17:34:10.298][Info   ]   XR_FB_touch_controller_proximity: Version=1
+[XR] [43572] [17:34:10.298][Info   ]   XR_OCULUS_external_camera: Version=1
+[XR] [43572] [17:34:10.298][Info   ]   XR_META_detached_controllers: Version=1
+[XR] [43572] [17:34:10.298][Info   ]   XR_LOGITECH_mx_ink_stylus_interaction: Version=1
+[XR] [43572] [17:34:10.298][Info   ]   XR_FBX1_touch_controller_extras: Version=1
+[XR] [43572] [17:34:10.298][Info   ]   XR_EXT_eye_gaze_interaction: Version=2
+[XR] [43572] [17:34:10.298][Info   ]   XR_EXTX1_haptic_parametric: Version=1
+[XR] [43572] [17:34:10.298][Info   ]   XR_METAX2_debug_utils_region_profiling: Version=1
+[XR] [43572] [17:34:10.298][Info   ]   XR_METAX3_debug_utils_region_profiling: Version=1
+[XR] [43572] [17:34:10.298][Info   ]   XR_METAX1_space_instant_acceleration: Version=2
+[XR] [43572] [17:34:10.298][Info   ] 
+[XR] [43572] [17:34:10.298][Info   ] Available Layers: (0)
+[XR] [43572] [17:34:10.298][Info   ] 
+[XR] [43572] [17:34:10.298][Info   ] Runtime Name: Oculus
+[XR] [43572] [17:34:10.298][Info   ] Runtime Version: 1.207.0
+[XR] [43572] [17:34:10.298][Info   ] 
+[XR] [43572] [17:34:10.298][Info   ] ==== OpenXR Exception Thrown ====
+[XR] [43572] [17:34:10.298][Info   ] 
+[XR] [43572] [17:34:10.298][Info   ] Error: XrResult failure [XR_ERROR_FORM_FACTOR_UNAVAILABLE]
+[XR] [43572] [17:34:10.298][Info   ]     Origin: result
+[XR] [43572] [17:34:10.298][Info   ]     Source: C:\build\output\unity\xr.sdk.openxr\NativePlugin\Source\unity_session.cpp:281
+[XR] [43572] [17:34:10.298][Info   ] 
+[XR] [43572] [17:34:10.298][Info   ] 
+[XR] [43572] [17:34:10.298][Info   ] ==== Std Exception Thrown ====
+[XR] [43572] [17:34:10.298][Info   ] 
+[XR] [43572] [17:34:10.298][Info   ] Function: Display_Initialize
+[XR] [43572] [17:34:10.298][Info   ] Message: XrResult failure [XR_ERROR_FORM_FACTOR_UNAVAILABLE]
+[XR] [43572] [17:34:10.298][Info   ]     Origin: result
+[XR] [43572] [17:34:10.298][Info   ]     Source: C:\build\output\unity\xr.sdk.openxr\NativePlugin\Source\unity_session.cpp:281
+[XR] [43572] [17:34:10.298][Info   ] 
+[XR] [43572] [17:34:10.298][Info   ] ==== Last 20 non-XR_SUCCESS returns ====
+[XR] [43572] [17:34:10.298][Info   ] [FAILURE] xrGetSystem: XR_ERROR_FORM_FACTOR_UNAVAILABLE (1x)
+[XR] [43572] [17:34:10.298][Info   ] 
+[XR] [43572] [17:34:10.298][Info   ] ==== Last 20 Events ====
+[XR] [43572] [17:34:10.298][Info   ] 
+
+==== End Unity OpenXR Diagnostic Report ====
+
+
+[Subsystems] Failed to initialize subsystem OpenXR Display [error: 1]
+[XR] [43572] [17:34:10.299][Info   ] 
+
+==== Start Unity OpenXR Diagnostic Report ====
+
+
+[XR] [43572] [17:34:10.299][Info   ] ==== Report Reason: System Shutdown ====
+
+
+[XR] [43572] [17:34:10.300][Info   ] ==== OpenXR Init Info ====
+[XR] [43572] [17:34:10.300][Info   ] 
+[XR] [43572] [17:34:10.300][Info   ] Stage 1 Missing Entry Points: (1)
+[XR] [43572] [17:34:10.300][Info   ]   xrInitializeLoaderKHR
+[XR] [43572] [17:34:10.300][Info   ] 
+[XR] [43572] [17:34:10.300][Info   ] ==== OpenXR Runtime Info ====
+[XR] [43572] [17:34:10.300][Info   ] 
+[XR] [43572] [17:34:10.300][Info   ] Available Runtime Extensions: (94)
+[XR] [43572] [17:34:10.300][Info   ]   XR_KHR_D3D11_enable: Version=11
+[XR] [43572] [17:34:10.300][Info   ]   XR_KHR_D3D12_enable: Version=11
+[XR] [43572] [17:34:10.300][Info   ]   XR_KHR_opengl_enable: Version=12
+[XR] [43572] [17:34:10.300][Info   ]   XR_KHR_vulkan_enable: Version=10
+[XR] [43572] [17:34:10.300][Info   ]   XR_KHR_vulkan_enable2: Version=4
+[XR] [43572] [17:34:10.300][Info   ]   XR_KHR_composition_layer_depth: Version=6
+[XR] [43572] [17:34:10.300][Info   ]   XR_KHR_win32_convert_performance_counter_time: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_KHR_convert_timespec_time: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_KHR_composition_layer_cube: Version=8
+[XR] [43572] [17:34:10.300][Info   ]   XR_KHR_composition_layer_cylinder: Version=4
+[XR] [43572] [17:34:10.300][Info   ]   XR_KHR_composition_layer_equirect: Version=3
+[XR] [43572] [17:34:10.300][Info   ]   XR_KHR_visibility_mask: Version=2
+[XR] [43572] [17:34:10.300][Info   ]   XR_KHR_composition_layer_color_scale_bias: Version=5
+[XR] [43572] [17:34:10.300][Info   ]   XR_KHR_maintenance1: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_EXT_win32_appcontainer_compatible: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_EXT_debug_utils: Version=5
+[XR] [43572] [17:34:10.300][Info   ]   XR_OCULUS_recenter_event: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_OCULUS_audio_device_guid: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_color_space: Version=3
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_display_refresh_rate: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_performance_metrics: Version=2
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_headset_id: Version=2
+[XR] [43572] [17:34:10.300][Info   ]   XR_OCULUS_ovrsession_handle: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_EXT_hand_interaction: Version=2
+[XR] [43572] [17:34:10.300][Info   ]   XR_EXT_hand_tracking: Version=4
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_hand_tracking_mesh: Version=3
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_simultaneous_hands_and_controllers: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_hand_tracking_aim: Version=2
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_hand_tracking_capsules: Version=3
+[XR] [43572] [17:34:10.300][Info   ]   XR_EXT_hand_tracking_data_source: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_hand_tracking_microgestures: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_EXTX2_stationary_reference_space: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_body_tracking: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_body_tracking_full_body: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_body_tracking_fidelity: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_body_tracking_calibration: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_eye_tracking_social: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_face_tracking: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_face_tracking2: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_passthrough: Version=5
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_passthrough_layer_resumed_event: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_triangle_mesh: Version=2
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_passthrough_color_lut: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_passthrough_preferences: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_render_model: Version=4
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_spatial_entity_container: Version=2
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_scene: Version=4
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_spatial_entity: Version=3
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_spatial_entity_storage: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_spatial_entity_query: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_spatial_entity_user: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_spatial_entity_storage_batch: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_FB_spatial_entity_sharing: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_spatial_entity_persistence: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_spatial_entity_discovery: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_spatial_entity_group_sharing: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_spatial_entity_mesh: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_spatial_entity_room_mesh: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_spatial_entity_sharing: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_METAX1_spatial_entity_marker: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_EXT_spatial_entity: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_EXT_spatial_anchor: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_EXT_spatial_persistence: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_EXT_spatial_persistence_operations: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_EXT_spatial_plane_tracking: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_EXT_spatial_marker_tracking: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_boundary_visibility: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_colocation_discovery: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_METAX1_dynamic_object_tracker: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_dynamic_object_tracker: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_dynamic_object_keyboard: Version=1
+[XR] [43572] [17:34:10.300][Info   ]   XR_META_environment_depth: Version=2
+[XR] [43572] [17:34:10.301][Info   ]   XR_META_environment_raycast: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_METAX1_passthrough_camera_data: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_META_virtual_keyboard: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_EXT_local_floor: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_EXT_active_action_set_priority: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_EXT_future: Version=2
+[XR] [43572] [17:34:10.301][Info   ]   XR_EXT_palm_pose: Version=3
+[XR] [43572] [17:34:10.301][Info   ]   XR_EXT_haptic_parametric: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_FB_haptic_amplitude_envelope: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_FB_haptic_pcm: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_FB_touch_controller_pro: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_META_touch_controller_plus: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_FB_touch_controller_proximity: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_OCULUS_external_camera: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_META_detached_controllers: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_LOGITECH_mx_ink_stylus_interaction: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_FBX1_touch_controller_extras: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_EXT_eye_gaze_interaction: Version=2
+[XR] [43572] [17:34:10.301][Info   ]   XR_EXTX1_haptic_parametric: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_METAX2_debug_utils_region_profiling: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_METAX3_debug_utils_region_profiling: Version=1
+[XR] [43572] [17:34:10.301][Info   ]   XR_METAX1_space_instant_acceleration: Version=2
+[XR] [43572] [17:34:10.301][Info   ] 
+[XR] [43572] [17:34:10.301][Info   ] Available Layers: (0)
+[XR] [43572] [17:34:10.301][Info   ] 
+[XR] [43572] [17:34:10.301][Info   ] Runtime Name: Oculus
+[XR] [43572] [17:34:10.301][Info   ] Runtime Version: 1.207.0
+[XR] [43572] [17:34:10.301][Info   ] 
+[XR] [43572] [17:34:10.301][Info   ] ==== OpenXR Exception Thrown ====
+[XR] [43572] [17:34:10.301][Info   ] 
+[XR] [43572] [17:34:10.301][Info   ] Error: XrResult failure [XR_ERROR_FORM_FACTOR_UNAVAILABLE]
+[XR] [43572] [17:34:10.301][Info   ]     Origin: result
+[XR] [43572] [17:34:10.301][Info   ]     Source: C:\build\output\unity\xr.sdk.openxr\NativePlugin\Source\unity_session.cpp:281
+[XR] [43572] [17:34:10.301][Info   ] 
+[XR] [43572] [17:34:10.301][Info   ] 
+[XR] [43572] [17:34:10.301][Info   ] ==== Std Exception Thrown ====
+[XR] [43572] [17:34:10.301][Info   ] 
+[XR] [43572] [17:34:10.301][Info   ] Function: Display_Initialize
+[XR] [43572] [17:34:10.301][Info   ] Message: XrResult failure [XR_ERROR_FORM_FACTOR_UNAVAILABLE]
+[XR] [43572] [17:34:10.301][Info   ]     Origin: result
+[XR] [43572] [17:34:10.301][Info   ]     Source: C:\build\output\unity\xr.sdk.openxr\NativePlugin\Source\unity_session.cpp:281
+[XR] [43572] [17:34:10.301][Info   ] 
+[XR] [43572] [17:34:10.301][Info   ] ==== Last 20 non-XR_SUCCESS returns ====
+[XR] [43572] [17:34:10.301][Info   ] [FAILURE] xrGetSystem: XR_ERROR_FORM_FACTOR_UNAVAILABLE (1x)
+[XR] [43572] [17:34:10.301][Info   ] 
+[XR] [43572] [17:34:10.301][Info   ] ==== Last 20 Events ====
+[XR] [43572] [17:34:10.301][Info   ] 
+
+==== End Unity OpenXR Diagnostic Report ====
+
+
+[XR] XR_META_performance_metrics: Attempted to stop before session ready
+[LowVisionOverlay] TunnelFoV 10° → vignetteRadius 0.007
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:ApplyInspectorSettings () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:93)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:OnValidate () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:65)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 93)
+
+[LowVisionOverlay] START - Controller initialized (type: Glaucoma)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:ApplyInspectorSettings () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:97)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:OnValidate () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:65)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 97)
+
+[LowVisionOverlay] Applied Glaucoma: Alpha=0.85, Blur=3.6, Vignette=1.00
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:ApplySettings (PassthroughCameraSamples.MultiObjectDetection.VisionType) (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:160)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:ApplyInspectorSettings () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:99)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:OnValidate () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:65)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 160)
+
+[OVRManager] OnApplicationPause(false)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+OVRManager:OnApplicationPause (bool) (at ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRManager.cs:3464)
+
+(Filename: ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRManager.cs Line: 3464)
+
+[OVRManager] OnApplicationFocus(false)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+OVRManager:OnApplicationFocus (bool) (at ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRManager.cs:3476)
+
+(Filename: ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRManager.cs Line: 3476)
+
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            22.509 ms
+	Integration:            1766.044 ms
+	Integration of assets:  222.460 ms
+	Thread Wait Time:       0.023 ms
+	Total Operation Time:   2011.037 ms
+[LowVisionOverlay] TunnelFoV 10° → vignetteRadius 0.007
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:ApplyInspectorSettings () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:93)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:Start () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:59)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 93)
+
+[LowVisionOverlay] START - Controller initialized (type: Glaucoma)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:ApplyInspectorSettings () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:97)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:Start () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:59)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 97)
+
+[LowVisionOverlay] Applied Glaucoma: Alpha=0.85, Blur=3.6, Vignette=1.00
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:ApplySettings (PassthroughCameraSamples.MultiObjectDetection.VisionType) (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:160)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:ApplyInspectorSettings () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:99)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:Start () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:59)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 160)
+
+=================================
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:LogTunnelFov () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:123)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:Start () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:60)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 123)
+
+[TUNNEL] Vision Type: Glaucoma
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:LogTunnelFov () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:124)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:Start () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:60)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 124)
+
+[TUNNEL] Plane Distance: 0.170 m
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:LogTunnelFov () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:125)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:Start () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:60)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 125)
+
+[TUNNEL] Plane World Width: 2.000 m
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:LogTunnelFov () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:126)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:Start () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:60)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 126)
+
+[TUNNEL] Shader Radius: 0.007
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:LogTunnelFov () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:127)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:Start () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:60)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 127)
+
+[TUNNEL] Effective Radius: 0.007
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:LogTunnelFov () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:128)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:Start () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:60)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 128)
+
+[TUNNEL] World Radius: 0.015 m
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:LogTunnelFov () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:129)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:Start () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:60)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 129)
+
+[TUNNEL] Tunnel FoV: 10.00 degrees
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:LogTunnelFov () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:130)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:Start () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:60)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 130)
+
+=================================
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:LogTunnelFov () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:131)
+PassthroughCameraSamples.MultiObjectDetection.LowVisionOverlayController:Start () (at Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs:60)
+
+(Filename: Assets/ExperimentIntegration/RP/LowVisionOverlayController.cs Line: 131)
+
+[ResearchLogs] CSV: C:/Users/AmplitLab/AppData/LocalLow/AmplitLab/Neon Walking Experiment\ResearchLogs\session_20260915T143410416_ea4e7f64423f4b9bb24aa955a8fdfeca.csv
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+WalkingEyeExperiment.ResearchSessionLogger:StartRecording () (at Assets/ExperimentIntegration/Runtime/ResearchSessionLogger.cs:71)
+WalkingEyeExperiment.ResearchSessionLogger:Start () (at Assets/ExperimentIntegration/Runtime/ResearchSessionLogger.cs:47)
+
+(Filename: Assets/ExperimentIntegration/Runtime/ResearchSessionLogger.cs Line: 71)
+
+[SimpleWalkDriver] Path set: 2 waypoints.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SimpleWalkDriver:SetPath (System.Collections.Generic.List`1<UnityEngine.Vector3>) (at Assets/Scripts/SimpleWalkDriver.cs:190)
+WalkingEyeExperiment.SeatedWalkingPlatform:CreateAvatar () (at Assets/ExperimentIntegration/Runtime/SeatedWalkingPlatform.cs:110)
+WalkingEyeExperiment.SeatedWalkingPlatform:Update () (at Assets/ExperimentIntegration/Runtime/SeatedWalkingPlatform.cs:59)
+
+(Filename: Assets/Scripts/SimpleWalkDriver.cs Line: 190)
+
+Unable to process a controller whose SampleRateHz is 0 now.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+OVRHaptics/OVRHapticsOutput:Process () (at ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRHaptics.cs:176)
+OVRHaptics:Process () (at ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRHaptics.cs:393)
+OVRManager:LateUpdate () (at ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRManager.cs:3403)
+
+(Filename: ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRHaptics.cs Line: 176)
+
+Unable to process a controller whose SampleRateHz is 0 now.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+OVRHaptics/OVRHapticsOutput:Process () (at ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRHaptics.cs:176)
+OVRHaptics:Process () (at ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRHaptics.cs:393)
+OVRManager:LateUpdate () (at ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRManager.cs:3403)
+
+(Filename: ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRHaptics.cs Line: 176)
+
+Asset Pipeline Refresh (id=ba4dca657bbc73448b31300d7502fa6b): Total: 0.095 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Meta/MRUK/Scene/HighlightsAndShadows': fallback shader 'Off' not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+Created GICache directory at C:/Users/AmplitLab/AppData/LocalLow/Unity/Caches/GiCache. Took: 0.039s, timestamps: [25.864 - 25.903]
+[SimpleWalkDriver] StartWalk (2 pts).
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SimpleWalkDriver:StartWalk () (at Assets/Scripts/SimpleWalkDriver.cs:207)
+WalkingEyeExperiment.SeatedWalkingPlatform:StartNewWalk () (at Assets/ExperimentIntegration/Runtime/SeatedWalkingPlatform.cs:120)
+WalkingEyeExperiment.SeatedWalkingPlatform:ToggleWalk () (at Assets/ExperimentIntegration/Runtime/SeatedWalkingPlatform.cs:126)
+WalkingEyeExperiment.Editor.IntegrationChecks:Tick () (at Assets/ExperimentIntegration/Editor/IntegrationChecks.cs:79)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Scripts/SimpleWalkDriver.cs Line: 207)
+
+[SimpleWalkDriver] Stuck → skipping to wp 1
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+SimpleWalkDriver:MoveStep () (at Assets/Scripts/SimpleWalkDriver.cs:142)
+SimpleWalkDriver:Update () (at Assets/Scripts/SimpleWalkDriver.cs:88)
+
+(Filename: Assets/Scripts/SimpleWalkDriver.cs Line: 142)
+
+INTEGRATION_PLATFORM_CHECKS_PASS
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WalkingEyeExperiment.Editor.IntegrationChecks:Tick () (at Assets/ExperimentIntegration/Editor/IntegrationChecks.cs:133)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/ExperimentIntegration/Editor/IntegrationChecks.cs Line: 133)
+
+[OVRManager] OnApplicationQuit
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+OVRManager:OnApplicationQuit () (at ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRManager.cs:3482)
+
+(Filename: ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRManager.cs Line: 3482)
+
+[OVRManager] OnDestroy
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+OVRManager:OnDestroy () (at ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRManager.cs:3449)
+
+(Filename: ./Library/PackageCache/com.meta.xr.sdk.core@06273138c40d/Scripts/OVRManager.cs Line: 3449)
+
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            3.724 ms
+	Integration:            20.272 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       0.059 ms
+	Total Operation Time:   24.059 ms
+Unloading 96 unused Assets / (12.5 MB). Loaded Objects now: 14450.
+Memory consumption went from 362.0 MB to 349.4 MB.
+Total: 14.144800 ms (FindLiveObjects: 0.664200 ms CreateObjectMapping: 0.476900 ms MarkObjects: 12.922400 ms  DeleteObjects: 0.080500 ms)
+
+[UnityConnectServicesConfig] config is NOT valid, switching to default
+Killing ADB server in 0.1058569 seconds.
+Start importing Assets/ExperimentIntegration/Materials/GazeDebug.mat using Guid(88353a1e312193d4b9bedd67e37d6562) (NativeFormatImporter) -> (artifact id: 'c6f8b3bf1d6a7dea74e76b08d27799d6') in 0.0074348 seconds
+Start importing Assets/XR/Settings/OpenXR Package Settings.asset using Guid(a2cb812d41da9e046895f1caacbd1ae8) (NativeFormatImporter) -> (artifact id: '203f7b997a2b7453b7a18d44cd11ce3c') in 0.0024339 seconds
+Refreshing native plugins compatible for Editor in 12.79 ms, found 17 plugins.
+Preloading 2 native plugins for Editor in 0.17 ms.
+Asset Pipeline Refresh (id=2044a54ddf8c06544abaf891b9842cb7): Total: 0.174 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
+[Licensing::IpcConnector] LicenseClient-AmplitLab-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-AmplitLab channel disconnected successfully.
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server process was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1789482859680,"processId":31420,"allocatedMemory":19971056,"memoryLabels":[{"Default":26401},{"Permanent":15468},{"NewDelete":67753},{"Thread":4230384},{"Manager":817114},{"VertexData":488},{"Geometry":816},{"VFX":-104},{"Texture":296},{"Shader":78821},{"Material":24},{"GfxDevice":55568},{"Animation":392},{"Audio":4040},{"FontEngine":256},{"Physics":2050},{"Serialization":560},{"Input":14824},{"JobScheduler":43784},{"TextLib":160},{"Mono":32},{"MonoCode":64},{"ScriptingNativeRuntime":155060},{"BaseObject":1620208},{"Resource":1304},{"Renderer":2928},{"Transform":4646},{"File":3953},{"WebCam":616},{"Culling":32},{"Terrain":11394},{"Wind":24},{"STL":40},{"String":22081},{"DynamicArray":224193},{"HashMap":85595},{"Utility":2661046},{"Curl":880},{"PoolAlloc":2152},{"AI":40},{"TypeTree":5005},{"ScriptManager":512},{"RuntimeInitializeOnLoadManager":64},{"SpriteAtlas":112},{"GI":7824},{"Director":8240},{"CloudService":9808},{"WebRequest":848},{"VR":51330},{"SceneManager":496},{"Video":208},{"LazyScriptCache":32},{"Camera":17},{"Secure":2113},{"SerializationCache":1576},{"APIUpdating":10320},{"Subsystems":-4880},{"VirtualTexturing":57888},{"StaticSafetyDebugInfo":278528},{"Analytics":384},{"Hierarchy":272},{"CoreStats":12424},{"Identifiers":12384},{"Gui":80},{"EditorUtility":162521},{"VersionControl":4},{"Undo":947},{"AssetDatabase":9144075},{"EditorGi":328},{"UnityConnect":24552},{"Upm":1896},{"DrivenProperties":72},{"LocalIPC":215},{"ProfilerEditor":9746},{"CoreBusinessMetrics":15004},{"Licensing":664},{"AssetReference":32},{"IPCStream":32}]}

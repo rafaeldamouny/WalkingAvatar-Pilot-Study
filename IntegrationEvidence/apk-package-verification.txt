@@ -1,0 +1,9 @@
+lib/arm64-v8a/libUnityOpenXR.so
+lib/arm64-v8a/liblive555.so
+lib/arm64-v8a/libopenxr_loader.so
+lib/arm64-v8a/libpl-rtsp-service.so
+assets/aa/AddressablesLink/link.xml
+assets/aa/Android/neonxrgroup_assets_all_42edeb50983a58b24b880896a1b1d3e1.bundle
+assets/aa/catalog.bin
+assets/aa/catalog.hash
+assets/aa/settings.json

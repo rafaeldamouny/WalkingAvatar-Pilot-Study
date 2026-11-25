@@ -1,0 +1,5 @@
+package: name='com.amplitlab.neonwalking' versionCode='1' versionName='0.1.0' platformBuildVersionName='12' platformBuildVersionCode='32' compileSdkVersion='32' compileSdkVersionCodename='12'
+launchable-activity: name='com.unity3d.player.UnityPlayerGameActivity'  label='' icon=''
+  uses-feature: name='com.oculus.feature.PASSTHROUGH'
+native-code: 'arm64-v8a'
+SHA256=A80FCD94A37571A67A9AA30666C9053817D769B5886E43D8B114E7A36224C510

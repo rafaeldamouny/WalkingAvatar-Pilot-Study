@@ -1,0 +1,5 @@
+User-requested temporary video setting: tunnelFovDegrees=30.
+Previously serialized scene setting: 10 degrees.
+On the user request to restore, set to 15 degrees as explicitly instructed.
+Do not restore automatically.
+Superseded on 2026-09-16: the experiment menu now defaults to 15 degrees and lets the operator select 15 or 30 before Start.

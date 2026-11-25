@@ -1,0 +1,10 @@
+Smoothing/distance/blur update installed successfully on Quest 3.
+UTC: 2026-09-15T14:18:23.8065028Z
+Editor checks: 33 passed.
+Succeeded; errors=0; size=1306430914
+Avatar: starts paused two horizontal meters ahead; right A begins walking.
+Glaucoma blur: 6 -> 3.6 (40% reduction).
+Window smoothing: enabled; minimum 3 Hz, speed coefficient 0.04, speed filter 8 Hz; raw gaze/body hits remain unfiltered.
+Calibration: first user-selected mount calibration retained.
+Hardware feel of new smoothing and distance awaits user feedback.
+APK SHA-256: 37C2C09254196E802FAD2E96ACC8B6BFFA39A53826C5A16A41AD808DB9727057

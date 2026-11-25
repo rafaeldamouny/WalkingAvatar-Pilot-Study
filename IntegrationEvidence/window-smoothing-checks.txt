@@ -1,0 +1,10 @@
+PASS: Window filter reduces alternating fixation jitter by at least seventy-five percent
+PASS: Window filter preserves the steady gaze target without reducing gain
+PASS: Window filter follows a large eye movement within 167 milliseconds
+PASS: Window filter resets without carrying stale gaze
+PASS: Brief invalid tracking holds the displayed window without treating gaze as valid
+PASS: Sustained tracking loss eases toward head center without snapping
+PASS: Tracking recovery continues the filter without resetting to the raw ray
+PASS: Recovery after long tracking loss starts gently instead of accelerating toward the raw target
+PASS: Explicit head-centered mode remains centered immediately
+Focused editor checks; on-device smoothness requires participant confirmation.

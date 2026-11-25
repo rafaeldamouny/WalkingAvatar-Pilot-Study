@@ -1,0 +1,1274 @@
+[
+  {
+    "path": "Assets\\_Recovery.meta",
+    "sha256": "762DD3CD5FBD25DE99AB6F4EB4770DB25231DBF165A27FF00F989DDE28D8D02F"
+  },
+  {
+    "path": "Assets\\MetaXR.meta",
+    "sha256": "895644A48DE09FF424D3A3E281CFCEAC2F0D9209237C0941416176192834373C"
+  },
+  {
+    "path": "Assets\\Oculus.meta",
+    "sha256": "5236B0CAC6C3AAA733C75A9758EECD616A451BABB9AD13CF568CC515996ED578"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples.meta",
+    "sha256": "EFC133CAE4608207BD53F2067957839B041933A3A868283DD9F8EFDC1D5654BE"
+  },
+  {
+    "path": "Assets\\Plugins.meta",
+    "sha256": "155E49DBF27B798BF0C28440427CF1C17520D455EB61D3B159206A42D021815A"
+  },
+  {
+    "path": "Assets\\Resources.meta",
+    "sha256": "94F72B557F044CC7A182713C3574E6C280CB7DDE8AFBF13A611DBE0064CF8A16"
+  },
+  {
+    "path": "Assets\\StreamingAssets.meta",
+    "sha256": "181D4E16037B9047E897EEDD201D2F27CFEBEF2AE640023F2FA5CFADB3B61A5E"
+  },
+  {
+    "path": "Assets\\XR.meta",
+    "sha256": "0C4448B34ACAEC0885B28263A22350280F47222793C132DEC819285779EBD648"
+  },
+  {
+    "path": "Assets\\MetaXR\\MetaXRProjectSettings.asset",
+    "sha256": "4E9A4C1004D4AAD2F2FEE65F1A58FF949B5C0D2E4941D3288D709A88BBEFC366"
+  },
+  {
+    "path": "Assets\\MetaXR\\MetaXRProjectSettings.asset.meta",
+    "sha256": "6315C34BB5C70DD635D4D55CB68B0A50464DFA1D429EE188E707D5CF81102FE5"
+  },
+  {
+    "path": "Assets\\Oculus\\OculusProjectConfig.asset",
+    "sha256": "19B775261608680D39772454916C1B95CF32A8AF56AF5FE433C137CCE3432E36"
+  },
+  {
+    "path": "Assets\\Oculus\\OculusProjectConfig.asset.meta",
+    "sha256": "F4ABA9D4B08A05E514739E7320607433ABCE19FFDF3CA6A7462A2FCC97329B63"
+  },
+  {
+    "path": "Assets\\Oculus\\OculusProjectSetupSettings.asset",
+    "sha256": "BA6D1968F75FCC3EFE24DFDF16310CF43F3B98979B3B43F379E42942601E0F4E"
+  },
+  {
+    "path": "Assets\\Oculus\\OculusProjectSetupSettings.asset.meta",
+    "sha256": "8F68AC946CDB3BA967424BBB3AD7654E0479429BB3BCCB1EC91A8DC4A1530828"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\LICENSE.txt",
+    "sha256": "2D4C3D00D67067461412A2D9A2F3F8B7B9CDA62B3DB501E4B6844CCF35C949AA"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\LICENSE.txt.meta",
+    "sha256": "6EE1574A4A2956A30B51BD3280783922864795A2D365C34CF3FA2ED5E77E9EE0"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection.meta",
+    "sha256": "71D3347EE6F6A4AA189837735508C1FB2745C65C79D93A8DC04E93CA1FADD7AE"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera.meta",
+    "sha256": "6E001B7E88ACE4BEEBFC98ABDCB6D1FC08D9EA65E8C521750685B87F10D6F30C"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample.meta",
+    "sha256": "C56B09D3C65C6B1D3CE1318DE1DB4DC5022DA52145108A18BF6FFB7FBB091022"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene.meta",
+    "sha256": "46AF0B3F8DDB56ED3411FBB03B30FB4C2F5F299D9E552B93B21E2FE6B2329A40"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\analyze_detection_log.ipynb",
+    "sha256": "589D9416F39B4083E6FB8505E2617856004A9ECED6A6A946286B80BC8F92DB16"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\analyze_detection_log.ipynb.meta",
+    "sha256": "1A461C9673F632FB47FB559A97C1DF9E5040BFCD7495BCA1AB7F8D181E7C9F00"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\detectionlog_CubeAndSound_20260327_194113.csv",
+    "sha256": "21941B96EB05C72350D9E563497AD96E7E187968322FBCB320EEF04BC405468F"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\detectionlog_CubeAndSound_20260327_194113.csv.meta",
+    "sha256": "A77BA56EEDE7E6FA6682214552A626E2DA63E2E4D90EDB4FC994114F3EDAB524"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager.meta",
+    "sha256": "81A16AA2A6424B314437A9FABC07461A8B816938C8B366A8BB75F061FE51D30A"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\EnvironmentRaycast.meta",
+    "sha256": "9CC780117F7789C500826E727601912DFD8DEA95FA9C963EE3A1C2F7F691A7C0"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\MultiObjectDetection.unity",
+    "sha256": "895014C16D62D88917562E8BABA728B10C70E56670C20DF21CDF6176C9A99AF3"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\MultiObjectDetection.unity.meta",
+    "sha256": "2A753271FFD2C5B3E17F9F5ACC55AC26F57469AF1804096EB181A6DD865C5308"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\paper.md",
+    "sha256": "E0697DFC88540F906C9A4FD8ED93F1562A875D354F1B4EC62CF6302D0C690801"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\paper.md.meta",
+    "sha256": "0ED716EF457A918396552AE5AD92BF21592F6F947105EDEA61ACAC046C786AAF"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\part_a_items_mean_n4.png",
+    "sha256": "92AF2049B7D863E2C0EAD20FA434ACD154941DC477D6A8FEE55594F69D248B17"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\part_a_items_mean_n4.png.meta",
+    "sha256": "B57D3A5D64A2F241B651B375E31FBEAC3224C2357A0553FF196B72A273132148"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\plot_part_a_item_means.py",
+    "sha256": "4C072B156D5725E774A8EEC9051CC94B9FB96BA27ECC140909509F6D7781E30D"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\plot_part_a_item_means.py.meta",
+    "sha256": "5C2A864A81815A54F335A884B551D15CD32BD112D89A9B059514A686D1622472"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\plot_search_habits_likert.py",
+    "sha256": "8B7552141359C8486C39995F514DD794A6FBE8400C8EF2B9E5D7DB40382BDE05"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\plot_search_habits_likert.py.meta",
+    "sha256": "0685C531B3EB8FFFCFD87A2C473DDA1AD48B2654CB6E9DF1855E73029517549E"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\plot_sus_scores.py",
+    "sha256": "D989DBC48EC4104AA2E182A508004DE390BAF0A7002D7AC3213810675D895A8F"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\plot_sus_scores.py.meta",
+    "sha256": "B050F59009DA7EE974098974E593E943B534ACB28081AA085FC48EAA37C833BC"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\PROJECT_EXPERIMENT_SUMMARY_AND_LITERATURE_PROMPT.readme.md",
+    "sha256": "D8AF868D1F1AC7A08EB54BC2D780F4075B4EB9F303010AC41BAD97FDBF19B46A"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\PROJECT_EXPERIMENT_SUMMARY_AND_LITERATURE_PROMPT.readme.md.meta",
+    "sha256": "C39C3F34949DFCD3F350E5EFDEDDAF01F8516BEEC83A7E4A541FA01358AB6A3D"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\questionnaire_readme.md",
+    "sha256": "BD12F103B604AECF64CCC6B60CC5BBFEC71E1604168FD091C8ABEE1C4EAE88C1"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\questionnaire_readme.md.meta",
+    "sha256": "677A60F75684CF61CD10EBB1C69A048DFAAA7DEFC5CE0D530CEABB6807FA57C4"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\questionnaire_tables_draft.tex",
+    "sha256": "0F84AE8C2F6D55B2AD324E7D136FAEB17342AECCC48FD223ACE2ADF7BAA1B457"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\questionnaire_tables_draft.tex.meta",
+    "sha256": "2F13709B249228518F9BA3D2DBB77416B601C9C44DE51457D348B22032897D08"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\S1_Answers.readme.md",
+    "sha256": "54E72C58656D9C29C4DE529780664270DC5128F6BEFF519A396C45735EEBD40F"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\S1_Answers.readme.md.meta",
+    "sha256": "1031D079E0B8E335950FE0426D9FEEB1047C3C008125B3ECD94483EEDA612DA3"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\S2_answers.readme.md",
+    "sha256": "61EB146308421ECD6E80BF83766A1C035D98CB075D59097F00BB889EA904253F"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\S2_answers.readme.md.meta",
+    "sha256": "CAC6EB46B2BF5E4BD07361E7945B75CAC0A46925DDDFD63F34FFF6C188182159"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\S3_answers.readme.md",
+    "sha256": "60317A1230960AE3FBC391EE5587116B6C6D67EA9512C41F94636C7D804B1FD3"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\S3_answers.readme.md.meta",
+    "sha256": "DAA6F141D78848A75DEFFC62294428ACB109E3A5B118DF7D2DD91314D1CEBAD1"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\S4_answers.readme.md",
+    "sha256": "3D5C1AA16087D063B4D79655B0F08F15DA71A1F0C9182474D3A16AA1CD89EE9E"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\S4_answers.readme.md.meta",
+    "sha256": "9448B52A1E58E171C68F52B645A4961AFA8BD883075DB98B5A2CD71769BFF960"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\Scripts.meta",
+    "sha256": "6491DA64714DC846BC8EBB427A8817410D92474CCF656FD56140830452DA7F43"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\search_habits_daily_life.png",
+    "sha256": "635B22A2EF989E0C2D561F044368F4447FFAFDEA4FD2B336C9480DDC8AAF2A77"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\search_habits_daily_life.png.meta",
+    "sha256": "D947FF9E4D228014F49A7EE23EA3AB97F661597CF50E2F246C064809AD87F1DE"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference.meta",
+    "sha256": "B94F25475BFF95DFBE66F43B91EF6490D3AB498AB11A3A1FBE767E3656C977C5"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\sus_scores_pilot.png",
+    "sha256": "713EF959356D209EC50FA8A8DCBC5E5A41463B05550C3942264CDDD535C22CF3"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\sus_scores_pilot.png.meta",
+    "sha256": "FD78C39BB801AED368829726589639D54244805B0AB3B07D455BC5B8AB4500D3"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\VoiceNavigation.meta",
+    "sha256": "847939448D8774D6F60D800F12E28A2396C57A43709808A5BD1F2D0B385C794D"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Materials.meta",
+    "sha256": "194E5E4582793C193D6D790B38565A1C573B0AD56F8B886F77B4E1E89AA9102C"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Prefabs.meta",
+    "sha256": "4BA19629E7D7917D1A4854F7629678B97A4C3904DA0687973F4440DDE62FC95B"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts.meta",
+    "sha256": "8A3C5CAD8A4D08F2BDF3EEE44A94E9F0354853F77124A8E4CD1F62300B8F0166"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Textures.meta",
+    "sha256": "71791C3F5A9865F3566AC648964E0D12870E9082CDD1163A18710C4A89070AEA"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Materials\\DetectionSpawnMarkerMat.mat",
+    "sha256": "88FB190A70A22793650181639AC52BDED4776178D684DC4E13F67E3FC7387942"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Materials\\DetectionSpawnMarkerMat.mat.meta",
+    "sha256": "0EC032F5D269CECB92D2B620D5B4780E8C6FE7DA62EA2F7DC4A4E9F8D369D389"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Materials\\DetectionSpawnMarkerPointMat.mat",
+    "sha256": "0F516E945C93F0F5CC721FD710AB6EBB6F77E0E20BCE1AD152F58779CACDBBD8"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Materials\\DetectionSpawnMarkerPointMat.mat.meta",
+    "sha256": "3EC2EA13F77C51A131448242DC6C644A5E1D4E79C4DE0E52F01F6D78944B1325"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Prefabs\\DetectionManagerPrefab.prefab",
+    "sha256": "58E6CEAFFC38456084CF9FC2D8BC99EEB1B5AF83A0B3844BAF2F7F9C3FDB2011"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Prefabs\\DetectionManagerPrefab.prefab.meta",
+    "sha256": "F6B9307A177108E9CE97900B32C193876AF5F1EC3B4E1D7F486AB00FC76222D7"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Prefabs\\DetectionSpawnMarker.prefab",
+    "sha256": "80F6250FFF79120E80F6C57200FA14C4F880365B5A66A0D2BE085984C34EC360"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Prefabs\\DetectionSpawnMarker.prefab.meta",
+    "sha256": "09D67B708C4B166D13ACB5AE73B32CC63ADB76630EA1E4A9FCBA425B9E6BF481"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Prefabs\\DetectionUiMenuPrefab.prefab",
+    "sha256": "069A6386910D40234220D923F88305665FFEA122FA9973724E62CD234730D5D5"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Prefabs\\DetectionUiMenuPrefab.prefab.meta",
+    "sha256": "BB9C45B5B94A7969A3624D49AC873A71BD52C1615D49D3715E5350622487B084"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\DetectionManager.cs",
+    "sha256": "430E1D0345F484D9ED22D2F74DEE571B12BA138916D00CB116DA908597A221BE"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\DetectionManager.cs.meta",
+    "sha256": "19331396E20F923E5331B96441A373264B395D99CD1660EC8F1589B984327597"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\DetectionSessionLogger.cs",
+    "sha256": "DA1C0F1A70AE9CF3BC02F997BD39B85F89EF65863D5651E8C2A0DDA5EEB6D531"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\DetectionSessionLogger.cs.meta",
+    "sha256": "94F44E3F7F2648CC08B75980F588F12FFBC703428600891D46CF35C19846E1A3"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\DetectionSpawnMarkerAnim.cs",
+    "sha256": "CB2BDE406196BC52EF5DAD5C847A1B82EC47977D8B411F1534C29265BE4111C5"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\DetectionSpawnMarkerAnim.cs.meta",
+    "sha256": "D89F1D995B8D79E5922F2FA820DBDCC5F2A8CD276C4F0916A0159D914C137126"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\DetectionUiBlinkText.cs",
+    "sha256": "FBAA464DA628A8A9D1C2F86BF7BB3082FD85BEA56141D605FF36EBD977FD57D7"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\DetectionUiBlinkText.cs.meta",
+    "sha256": "F53B047746D839161B3ADC93098D5E26484F7E861A0DB8653EED61611EA0D449"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\DetectionUiMenuManager.cs",
+    "sha256": "6EEA27B3FBACEF2158F35ECDBB480E93267B3A7D792176629013991640CEEFDA"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\DetectionUiMenuManager.cs.meta",
+    "sha256": "A4ECEDD1E69683CDE3453E9DC4F9C0CD46798574BCDE37E0EE06329D5A0A6EE7"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\DetectionUiTextWritter.cs",
+    "sha256": "65DA815C0413E034BD6A721877D7628C149F1AE5A2411D1D19DB4BBDF47D6C0B"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\DetectionUiTextWritter.cs.meta",
+    "sha256": "8B6DF715555169CB960695B44F4D50CD708B6D79AD24579FDADADFC32E560631"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\ExperimentStartGate.cs",
+    "sha256": "4A43E43AD0D3D21D590C5899EAE3256150FEC9E2A02F7866FFCB2DDD90FC7A3C"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\ExperimentStartGate.cs.meta",
+    "sha256": "098EACC49C9E2B33C784F77B4F35CABCA13188CDAFD657A476C49D420D2A142C"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\ExperimentStartWall.cs",
+    "sha256": "1457DAAA577E30BFB803C8CB01183C5D4CC8752AE3856624465BE44494E4E5AF"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\ExperimentStartWall.cs.meta",
+    "sha256": "CB6B1D9AC252BF3FA6C3EC9CEDB95E5E9A67002181E0A7A0816F15FBDB867C97"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\LowVisionOverlayController.cs",
+    "sha256": "CD2C444C396F1FB77753F0362F18881D697466959ACAB1C9906F85957F38223A"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\LowVisionOverlayController.cs.meta",
+    "sha256": "0377B072879880C9421475BDB6A7B36C70BC0127721256DE15B7336A5888BC48"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\LowVisionOverlayMat.mat",
+    "sha256": "FB9966383BA4FF9D8F2ECFAE7E120A66BE861131978EC11B364B3BAC3F0BD8BF"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\LowVisionOverlayMat.mat.meta",
+    "sha256": "1D1E5BD44FE8089945E49B425B89A0572FE1FCA088D9A0CB0A3D25437484ACD0"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\LowVisionOverlaySimple.shader",
+    "sha256": "F8156DB0A5AB42A4F0C3BFDA442FC4CD0F438FE748F24933B3B5E5BD1A741CB2"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\LowVisionOverlaySimple.shader.meta",
+    "sha256": "14C4D5D79794364E7AC092057622F52C74B95E7536458AD02E46B26ACD94AEAC"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\MarkerSpatialEmitter.cs",
+    "sha256": "8774ED477A4D9CDFAC9DEEF26CE5651564CD20A4E822951FCCF51455B6E516D6"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\MarkerSpatialEmitter.cs.meta",
+    "sha256": "F8B4A7970991244AD897F8021B7387C2390739A20686DF1B6A549338082F9397"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\NavigationLineManager.cs",
+    "sha256": "B3AE4AC7DF5AB62ADAB0DCD1CD50CD4F127D6F394A628FEB7CD8A0FAFFDA2201"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\NavigationLineManager.cs.meta",
+    "sha256": "058C6D6569F49A813E2313A91448B7642AD8D4750534492F571AB62EADD413FF"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\RealisticGlaucoma.shader",
+    "sha256": "622B4B841D09CBF3519C0D0BC9D75F5A8E2DD57AC6B5DB5FB1E758AEAB831A44"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\RealisticGlaucoma.shader.meta",
+    "sha256": "A70141AB3540920514775498F51E15146EDFD82F80BE543935464AE32F906441"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\TunnelFovCalculator.cs",
+    "sha256": "93B949A3C4C12A2511C3CA9F7C15C26F9B2B318BB563EF26BE1AFCA76108CB96"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\TunnelFovCalculator.cs.meta",
+    "sha256": "424C7C3517692E17145858C396EAC1ACD58AE83A652E2303B4160ADA011F7198"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\VoiceCommandManager.cs",
+    "sha256": "F403667915DE5694757D1CBEA10AAE4AF6C00F71875741AC0F92C49F41A29E62"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Scripts\\VoiceCommandManager.cs.meta",
+    "sha256": "D707112518BE28F82895E58BCF2EA763E5EA2732AEE3612DE32A4111BC4C868A"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Textures\\DetectionSpawnMarkerTexture.png",
+    "sha256": "39F6AB758F8B75FF52771EFBE5AF1463FB4A68DE783764BF17CEABCB46715550"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\DetectionManager\\Textures\\DetectionSpawnMarkerTexture.png.meta",
+    "sha256": "CA8E48ACBE4A12CB5C22B4E9F37D15A649524E3D36C37853F1977E94FDA20C18"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\EnvironmentRaycast\\Prefabs.meta",
+    "sha256": "6B97E87F8734A24561DDBF378EAA4074F9145F0583345A296A0A57899639E940"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\EnvironmentRaycast\\Scripts.meta",
+    "sha256": "0D14386E3C0C6BE0AC864235FD9585BAC62D92504B785F7B933FCE0856796859"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\EnvironmentRaycast\\Prefabs\\EnvironmentRaycastPrefab.prefab",
+    "sha256": "6D405C7CE2B5BF47ECE72DE56E9BE01D337FA28B201657D440FBA960B602ABD1"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\EnvironmentRaycast\\Prefabs\\EnvironmentRaycastPrefab.prefab.meta",
+    "sha256": "9CC90A3D47C1D93F7941CCB1FEB7A2C12F4AFE1A8B45299A9E9A1213225A677D"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\EnvironmentRaycast\\Scripts\\EnvironmentRayCastSampleManager.cs",
+    "sha256": "9B50C3A2D8F2B8A9C0F91EE5213802A684532D6FA9A9E1646780DD44B9B4AD12"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\EnvironmentRaycast\\Scripts\\EnvironmentRayCastSampleManager.cs.meta",
+    "sha256": "C1A1767F78D85489B8026F86F5C00D9363799665BB8BB95878C21AAE3B4BF940"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\Scripts\\DetectionSessionConfig.cs",
+    "sha256": "7516F881ED7746775BE38A6A520D9D7F1540509FF132D4451F3B39F9C8AC2882"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\Scripts\\DetectionSessionConfig.cs.meta",
+    "sha256": "26ACD5E141C47974ABAF7A0F3281EDA4CAD0CD72ADAF4A59F86BE0CA1C973E83"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\Scripts\\ExperimentSessionManager.cs",
+    "sha256": "81AF43F6C6D1DBBD75A476F0EEDB6D011632DF6F0DB4843E0EBD9BD40A909240"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\Scripts\\ExperimentSessionManager.cs.meta",
+    "sha256": "3B2CF18BB241E71B788D66BAAAA9BFE3D3044334AA2FAF180DF4897F9E321A36"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\Scripts\\InputManager.cs",
+    "sha256": "0FA172D3A41DA23AA30ECC0D69EEF6E81782A2514D828BCABED5D85357970DB2"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\Scripts\\InputManager.cs.meta",
+    "sha256": "2CE0B22F1F2462507756123DBF33E5CD4A9483E32DD88C46311EB9EE10ED57A0"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Editor.meta",
+    "sha256": "EC65CFAACA88FF92CB752B9954089184A1E5D69A7AF1998D3B7D9ED43330C1D7"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Model.meta",
+    "sha256": "BC2ABA0E2B74FD4B70AC21CE600705D6D41887F3E32FE39258A49DC0ECEA4E72"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Prefabs.meta",
+    "sha256": "97998EC6CD3181BDC4B01915A838829B4C53975D39D93FFB298913D03CA6432A"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Scripts.meta",
+    "sha256": "4B8B74852634F5AD836504D25E55CA788979A07104285A195CD3B62DED9529AB"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Editor\\SentisModelEditorConverter.cs",
+    "sha256": "8E5242633AD6964F8194CCDD3745576E80E97837E50DFF12D036D14E166AF11A"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Editor\\SentisModelEditorConverter.cs.meta",
+    "sha256": "A9D3EF6217C484D3A86D9FC67449F7C60481F86483F1E78235907652F525524E"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Model\\SentisYoloClasses.txt",
+    "sha256": "634A1132EB33F8091D60F2C346ABABE8B905AE08387037AED883953B7329AF84"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Model\\SentisYoloClasses.txt.meta",
+    "sha256": "A9E09B0012D5B5F2D67058FB23D87A202CC755418766C0A268772342A4C266E3"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Model\\yolov9onnx.onnx",
+    "sha256": "189ED26D273423B02243CE7F0A7795ACC7DA8049F879F8B73A0684D25D1138FD"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Model\\yolov9onnx.onnx.meta",
+    "sha256": "F4596B20463F3215A1D3C31E75E940E64799D5FD56A6087268B7BB8E82611B0D"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Model\\yolov9sentis.sentis",
+    "sha256": "CC25E14D60A90EFEDDAEEDCC5A666C342345E722B281A3F6E73C692ADB796B21"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Model\\yolov9sentis.sentis.meta",
+    "sha256": "4ADEEA9896491253DAE5FAD950E99664C2F4D1F1668B36FDA421F9E4C7FFA261"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Prefabs\\SentisInferenceManagerPrefab.prefab",
+    "sha256": "84D73C10D87062E5FDEF2841466BF54332B8626AEDF8C8C6A2CB1437548ADE5A"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Prefabs\\SentisInferenceManagerPrefab.prefab.meta",
+    "sha256": "D4C232D37489659D51B607E86C13B92D2BBAE9BDF33277126DC02DD7247B3FF7"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Scripts\\DetectionWorldPlacement.cs",
+    "sha256": "F07B74CC9A3407DE47E62B212B708E14CABCAF9F928296A23FD85C7DA407C508"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Scripts\\DetectionWorldPlacement.cs.meta",
+    "sha256": "6495C42F22FB69BB670960265C7803D87D0E7C09095CD37A27A00B14758185E9"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Scripts\\SentisInferenceRunManager.cs",
+    "sha256": "023EA562837BC7DC3E168BD010B56FB1A1BF406309969A2FAE39C174DD4285E7"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Scripts\\SentisInferenceRunManager.cs.meta",
+    "sha256": "BC16C8F00ED684F0C845189ECB2FB3FD9CA9C18462A51015F5E545583C8878A0"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Scripts\\SentisInferenceUiManager.cs",
+    "sha256": "D5587B698E6A3C79F35732B52FE10E509E64F9D8A47470E68B191A3F62485995"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Scripts\\SentisInferenceUiManager.cs.meta",
+    "sha256": "3A0AAF2EE129734BF53EB80A09259B5C11A9AB2A899CAE8E997063E0CD94070B"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\VoiceNavigation\\Scripts.meta",
+    "sha256": "0D21937E083C67D5819B32C2870FC791AC5ABA3E46AEA09EA85CE86AE3631BE5"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Prefabs.meta",
+    "sha256": "4A554BB7B2ED42B9A793B7C9FDEF4086D8C77DC3ABA0708B09AEA33AAE4F3638"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts.meta",
+    "sha256": "B24B9F479CCB6EFE69856E7035E7F2CCE2094057D86F1C4A70FC7365DF0D1820"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Prefabs\\PassthroughCameraAccessPrefab.prefab",
+    "sha256": "4955CECB7E079788DB2F1211D80585342974000DE2F1F82D34914226E3D4859F"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Prefabs\\PassthroughCameraAccessPrefab.prefab.meta",
+    "sha256": "13A8AD834F019D817E9476AF76E824855F236462878A4EECDC751C59D2790FF0"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\PassthroughCameraDebugger.cs",
+    "sha256": "CC5D65BA03FB7EB1A6AF042B742F3F92FEA9335E6D843720BD45F5C437E403E4"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\PassthroughCameraDebugger.cs.meta",
+    "sha256": "3163CE5D9E0947D8EA9263BD6443D09CC8685E49215507A9C5251AA0975287E6"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\RequestPermissionsOnce.cs",
+    "sha256": "18FE549978761E24098189BACD01D27C2BE71BFEE8DC412F854F2AC358FAD4D5"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\RequestPermissionsOnce.cs.meta",
+    "sha256": "A0CEBB88960A485C61719DA32789BD3FB661C0E4E796F8BD3D68743539A58F26"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Materials.meta",
+    "sha256": "AD379DA03E128E4C442B90A2EF18B2203F34092A65FE55D139D04F7B28F0B71C"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Prefabs.meta",
+    "sha256": "1B76AB9B7314AACA1F78AF41EEBC3CCB5D50C3B41E19201DDB4EE2687ACAE8A8"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Scripts.meta",
+    "sha256": "E6185C639382586D4DAECB8EE56AE66A0AF831A182FA51822056D378D7AF1255"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Shaders.meta",
+    "sha256": "74424FC67C9CF49AA32104DBF0D2D70EBB6BF2B4C84CA9138545E62F16C7B491"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\ShaderSample.unity",
+    "sha256": "D3B5756CEC346B58CF88C1B85C5726822905D99BDB3CA4FD64ABC04F33707DA2"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\ShaderSample.unity.meta",
+    "sha256": "450A5AE548414B34FBF8BA56586BA849EF07AC428B660047C7F070BE12A365AC"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Textures.meta",
+    "sha256": "3AC6C1B36AD24949839EA1717CC0EC18544505099773770592219BAC62FC2CEA"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Materials\\ShaderSampleWaterMat.mat",
+    "sha256": "BC454BA2ED5F14CE2151659AC735D8FD6A05026925CF5BE843DB92ACAF43B8D0"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Materials\\ShaderSampleWaterMat.mat.meta",
+    "sha256": "9B7838FA0FC96A1A799B2EF983EEA3F1EAF18BD2C85BCAA7A90721BFA2DE6C38"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Prefabs\\ShaderSampleManagerPrefab.prefab",
+    "sha256": "1360A6AF2EE3EF06F1F1F0A4C886ED185A726A922AF70881EC622827D28AF350"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Prefabs\\ShaderSampleManagerPrefab.prefab.meta",
+    "sha256": "5A6B939D3911053E0BF8FE87DFB91F9E60DEE9801670A015B68B95787564AA85"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Scripts\\ShaderSampleManager.cs",
+    "sha256": "4DDFCE24F3DC526E8D4018541649DB8185FEDDE1F6D4528DBBA4632C27CF76AC"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Scripts\\ShaderSampleManager.cs.meta",
+    "sha256": "B740FB6AB70391C7C3782E516F97B423C7F3E0CA3EECD1AAAE61C7CF9D66152A"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Shaders\\ShaderSampleWater.shader",
+    "sha256": "F836AF412577D0FA6225C11DAA17A0460F0F0E66FB10023051C9F73359264ACF"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Shaders\\ShaderSampleWater.shader.meta",
+    "sha256": "925F08A8B2C2A97DD58E5013011CDAE9F04F25DC7E4A12BC2632E3579A316135"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Textures\\waterdetail.jpg",
+    "sha256": "30EB6CB2A08047DCA3AB30514BA1270C23A2FDE0C054A22EF17E675FD4EF412B"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Textures\\waterdetail.jpg.meta",
+    "sha256": "FDFA80680FDA39A2CEDF8ADA65629464B0A91604121B7978B1070DDF2A0ED44A"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Textures\\waterNormal.jpg",
+    "sha256": "E12DA49BAD08E2902D7657F6A83D29E84E8B500E177637F21EC6505CDDD96719"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\ShaderSample\\Textures\\waterNormal.jpg.meta",
+    "sha256": "1528E040AD87C23AA1595BBF04220E62DC9881A9A06992717A88854C6A06E186"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts.meta",
+    "sha256": "2D1C2F1FFF3218911F6A000E2CF980F36647AF70A6FA60F79B1203BA05FFBF0C"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Materials.meta",
+    "sha256": "1232380F2C64989AE24BDEFD6CE778FB273A14AB5A9DA9122CEAEB9955AFB947"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs.meta",
+    "sha256": "E36F36E2113134B7B673372D43938BE3E7A6A780BFA2715BF723767B370EECBE"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Scripts.meta",
+    "sha256": "98118B4A1EB0172CFC29F59441ABB66367CDE082CBBFD6ED0AD75DB70A2727BE"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\StartScene.unity",
+    "sha256": "86FA9A5F1D4BE3A27435CE5C5F334439B89CCCD0EC682429F2024DF65445DCB8"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\StartScene.unity.meta",
+    "sha256": "122A98842F54D53AA012D60867A16EAE1B9FEDD583E7046C57EC5453583511C6"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures.meta",
+    "sha256": "5F54476C8F72872640892CE1445AEA52C5177596112520D3CE53EE27DD17655C"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat.meta",
+    "sha256": "038DD7BC0F135EE7E553F377CEA658D7BA6AF1516E57CAF0DA3E53E716A95B8D"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat\\Montserrat-Bold.ttf",
+    "sha256": "C4C8CB572A5A2C43D78B3701F4B2349684E6CA4D1557E469AF6065B1E099C26C"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat\\Montserrat-Bold.ttf.meta",
+    "sha256": "475C9C65980BD02A372F31CA4154CA7235B3518F5ADD6608364CABCE0B6D812E"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat\\Montserrat-BoldItalic.ttf",
+    "sha256": "91371DB417BC137A0EDB00A9B441C0D4913BBF3320DD038DEA124EAF8A565C23"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat\\Montserrat-BoldItalic.ttf.meta",
+    "sha256": "774C81F2843DAFC157DB97B00297C95684BFD53A76B83CD0D747AA5E5C4CA29D"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat\\Montserrat-Light.ttf",
+    "sha256": "9B87925D061B1AFFB66417717731AD781F7D7678FB089B49F14BD922C2338559"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat\\Montserrat-Light.ttf.meta",
+    "sha256": "142611F06CB289B1487467FBCBCFCB5BC8B50018583782EEFBD237082984289F"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat\\Montserrat-LightItalic.ttf",
+    "sha256": "A634AC89C843302AFA15A4C4E7353F7A5BFF3E72FA0E0B2D9D0F144AD3B2C674"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat\\Montserrat-LightItalic.ttf.meta",
+    "sha256": "50F15BCBC018C9A402FDE7F855F68938C7CDB9C6CAEA3286030B11D003573B57"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat\\Montserrat-Medium.ttf",
+    "sha256": "92B3D3C6E135EB1DC95F88E6CA75BD6113D9EB3261A95CA39F733E3897E53675"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat\\Montserrat-Medium.ttf.meta",
+    "sha256": "811C35F01F29D325C076D94753B0B923A7F13FA188AA2FCF4BC2D54130C8BCE0"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat\\Montserrat-MediumItalic.ttf",
+    "sha256": "08EDB1A99610549DCE56ED6CA137C6C6F5F8A53751EFB52A504AAC95ED056480"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat\\Montserrat-MediumItalic.ttf.meta",
+    "sha256": "C709FAB1F2938723EC5F25317F21C819FAA9B4630C91FC00473B3EA6FEA38047"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat\\OFL.txt",
+    "sha256": "C728A3ABA1E525CD21A459A13DCC23C89C1B04BBEFC5F11A0E2B6B9B9CCB77CE"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Fonts\\Montserrat\\OFL.txt.meta",
+    "sha256": "641226EAD794A7C7CC783CA45D9DA03DFC3D539D58199E7B564A2B16C3805A1D"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Materials\\DebugDrawLine.mat",
+    "sha256": "0F0447E1D70D6F8B74F2049CB9FF577BA0979D5FF439BC48ED3D92FBAE2BE682"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Materials\\DebugDrawLine.mat.meta",
+    "sha256": "189D55C0749A3DA846DE2661685DEA32FE6AB5D564075F1D99FB013065834A7D"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\CanvasWithDebug.prefab",
+    "sha256": "45259607A8A8987BF3373C228BDA85F6F059D2ACC2436247CDDDCFB9C3BB7FB2"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\CanvasWithDebug.prefab.meta",
+    "sha256": "BF0173D1B665B7FFB20D1A71DC25390B30CEFD1381BBCAEFD76AB0770FDACDC8"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugButton.prefab",
+    "sha256": "41ECA663632D6AAFE4F1E207412D770362C45F215FE2C1C1A7522872BD391021"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugButton.prefab.meta",
+    "sha256": "7D8CB3405C34BA3ACFC870935BF22976BABEBF503C77DDFCE00ED5AB330460A6"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugDivider.prefab",
+    "sha256": "2FB4337AEC94E9310168D79924F16423C83CEEE1871EF853E85BFFCD52989D27"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugDivider.prefab.meta",
+    "sha256": "8F700E1D04CBFF0505447F463FC658AFAE76B0B54D3708810A41FD0B643B86B7"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugLabel.prefab",
+    "sha256": "56BEB5E87CB083B25F4C4133F7987BE2AE220AC7920E8D7C16B9B3D172D03E07"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugLabel.prefab.meta",
+    "sha256": "43D6BCC05CE72F27AA93B4564BAC4F5F6AFA7CA8A549A8AD1625CFC89E00C9A2"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugRadio.prefab",
+    "sha256": "49CF72EAC853CC9CE03FFB9F87CFA42A65A09BC539D70ABD573436540B486097"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugRadio.prefab.meta",
+    "sha256": "DA061179EBAD87FAC80AEEC730E4C8EA5B3E66B32E911D80359361C18FFC424B"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugSlider.prefab",
+    "sha256": "0EB0948BD9F005E8D333907734393E0958FE71AAB485FAA01236D8C7D692D49B"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugSlider.prefab.meta",
+    "sha256": "7C9099B723186915F79CC14FA395FD6B8D1E629B8B3659689CD264D191719548"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugTextField.prefab",
+    "sha256": "CEDF2C892C717567E2298374879B3E02A51884BEC9037BF48A4A4967AB686B64"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugTextField.prefab.meta",
+    "sha256": "C10C31CC561379C7944C053AA006CEE2B42F7E46273BB79BBC367C389E7CFEC9"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugToggle.prefab",
+    "sha256": "C391D49347D07C187A4EF0455B84F72D107F4DEE9CEC9B6E87F68A2CAC7649B4"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugToggle.prefab.meta",
+    "sha256": "6EAAA3741A62FB4674C9387BE1652E309398F706DDE5E0FECF3F83F35670FAAA"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugUITestCanvas.prefab",
+    "sha256": "46648A945AA7073419E4B4357030501F96DE9E9AC06CD5BFAB7300E8A9CD78AB"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\DebugUITestCanvas.prefab.meta",
+    "sha256": "FA3E09CE90153CB4FA2CE67841F9340CE733BB42136FD4ACAAC7421340EF4C0D"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\ReturnToStartScene.prefab",
+    "sha256": "D1E9EA1FD77EB13675C60EBC0C0F37F7368E8686B8591A096832F8B3CB7955A9"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\ReturnToStartScene.prefab.meta",
+    "sha256": "B95FBE649233AC883141542167625A9CEABA428ACD1ADF4D6BBA784D0D1D53DC"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\UIHelpers.prefab",
+    "sha256": "9EDB52A9399EC6AC267C97E3C126343F5C1E5B7996C54AAC43DB8733F20164D9"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Prefabs\\UIHelpers.prefab.meta",
+    "sha256": "E6C29BE9CF8C925E7FEDA35EF6CAF69C6E5A47C39745E6917CE12C05D3FC22BF"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Scripts\\DebugUIBuilder.cs",
+    "sha256": "0637ED8578B1643C7DA958EDA9C6DFDD0C7153003E9FE2E0FF534537D43C2A05"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Scripts\\DebugUIBuilder.cs.meta",
+    "sha256": "B567A5042B9C188F4D19AB891F92F733E30922C51078C2294E9DBF595BB528C4"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Scripts\\HandedInputSelector.cs",
+    "sha256": "6664873C7A9795DE948E0694D75ABC6F4CFE28ACB6D46FD7C83E591C6A411666"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Scripts\\HandedInputSelector.cs.meta",
+    "sha256": "A926A5DA25824C5C208A29644CA3A967810B036094D934260D5BB8BF802C4C8C"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Scripts\\LaserPointer.cs",
+    "sha256": "554446DD9996A97899E69B7B38A874D28C8DF12CFE6BD0D1F65C5BC97E71AAE3"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Scripts\\LaserPointer.cs.meta",
+    "sha256": "879AC924026BE58C5D3DC6BC5B2A798D4CF32CCC8C22ABEC102F5E081B938038"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Scripts\\ReturnToStartScene.cs",
+    "sha256": "4C241C97C6544ABB0A123F45E10C6974EDE57669E1C8D36D0DAAB76B90EA1E96"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Scripts\\ReturnToStartScene.cs.meta",
+    "sha256": "0A0AE819F179FACEB3E3B9CE988AEBBDB18BBA809A4C55600B5D316F428825ED"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Scripts\\StartMenu.cs",
+    "sha256": "C52B3824DC248345D3C200D552F461E24D5764D70FD71F23EFD7E27EB9622330"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Scripts\\StartMenu.cs.meta",
+    "sha256": "2DEA519B8728B27A21956E1017F07520ADA4AE2CCFFED6338BC53A31BBBA89E7"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\BlackCubemap.png",
+    "sha256": "0560CC7F7E6F8B4F6EE9651A6DF2EA0366E5927B14DF9223BF119200EE226A49"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\BlackCubemap.png.meta",
+    "sha256": "E6EBF83AB00FE4A9B0894D283B2BD701EABBA4E41BA6E71F155BF924E1078C04"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\button.png",
+    "sha256": "3E5C14EAAB0308EE5E10B59037627AE17628654B24E64737A6F08578601FE2F2"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\button.png.meta",
+    "sha256": "C3BB347B31E048F38D8D9B6566C35FC7644B9DE69D0F50F0718E158B097B6800"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\button9slice.png",
+    "sha256": "C561C1869C64F1BED8D45A659E397D851FBC7412A3FF36319CD5952F44772396"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\button9slice.png.meta",
+    "sha256": "D37A1C7CBBF8120674BB913C6FDB5E5064DB05E2CBA9E0AF7005761289396F2D"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\dialog.png",
+    "sha256": "DA403D491DEFADE6A27F024D4CBF384FC251735CADBC06F3539C02CB43BDC5D8"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\dialog.png.meta",
+    "sha256": "E54C10716258ED344C9613118E567559343272EEDE8632C5D26EABC50F44C1BE"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\header.png",
+    "sha256": "455BDCBF22AA15B3165F0A21D5FEEBB218E32CBF132C4284B5F6C5924319100F"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\header.png.meta",
+    "sha256": "4A9ACBD645D8B43115B1C0A2018EFB29066F871E95417C35D4F595195FF0A54D"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\Loading.png",
+    "sha256": "F38EC55CDB8D18A7D2B4BB9CA6C8339DFF3FDD9A4668B9D2F0A6A367C828925D"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\Loading.png.meta",
+    "sha256": "4B83E30032125B889729962CB0FF7375AF8ADE5DC632DC1C241FFD8A0591E4EA"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\noise_01.png",
+    "sha256": "7201276AE53C02F9A266526018AC758C411568F49CE72C0CA54B2338A6FCA558"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\noise_01.png.meta",
+    "sha256": "45E9653C474836F8E758FFDBE4476515390FCA5666CA4222F51DFD5295B87EC8"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\panel_background.PNG",
+    "sha256": "82954BE1338A0E3003DB7AC0770CF5DD25EA64BC640623E49C7E746A0DF2A37D"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\panel_background.PNG.meta",
+    "sha256": "663060EEF43684BABB654705473E1360175AA3B4A8C58EC98172EB94C6EC9EB4"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\radio_disabled.png",
+    "sha256": "0DE45C4472A219DC0BC320A6DA36C93BD67EFC48AFE8F6A6A5EFA3E32741E71B"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\radio_disabled.png.meta",
+    "sha256": "DA95F56ABA843A49819BC9C161606E0AB50379FB4CA750136F956012162842B2"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\radio_off.png",
+    "sha256": "1FBABA03A0DDCB952AF4F9E6D68B015FDEF9794E08317344ED6ED6B446271171"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\radio_off.png.meta",
+    "sha256": "2D09D142556185B9D59E077FA955470D03D62166347E8A2F9290954B8B077B4B"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\radio_on_off.png",
+    "sha256": "C905E15C4822376EEE704F403F90F5E0752B2F94EA0F13E683EF9FDAC0E35658"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\radio_on_off.png.meta",
+    "sha256": "82A17599EBAA4492C3A819C399A8D12ABA91350BA8AF8DBC4C3FEF9E3956DADA"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\radio_on.png",
+    "sha256": "F4F1E82CDA54B1D9C537F501A725E8329FE53FC8C5DE21EE890123A11022196F"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\radio_on.png.meta",
+    "sha256": "75F4C9D750EF022A6AB9C9CAB70B5ADD038AA3FFDA5345F44624260535B9AE26"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\radio_over.png",
+    "sha256": "C7C9EA51D954B60B5E6FBD335A195983BD8507A2C7FF41BEEFA175B0B9C959EE"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\radio_over.png.meta",
+    "sha256": "AA51D1331BF588EB57D75E4CA2DF434AA38DD39BB4AB50A0D04AC8A59211FBC4"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\radio_PSD.psd",
+    "sha256": "38B967755681D0B0225A6C8148C9375D2EECF4E8F1F8029CE0372C43F12A3490"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\radio_PSD.psd.meta",
+    "sha256": "283C544E11DC41D45B67997872FFDBFEDE447BB053C3F4F371A1B715C6A9C015"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\separator.png",
+    "sha256": "65D2F41DF2F9C2FF4934191EA1C4D28E2692C48F11353E4D844F5C7166B7DF11"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\separator.png.meta",
+    "sha256": "3D5ACB0A440030FF69641392A9CC9941FAB3E3C199E272D9D90D2CE9105021FC"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\slider_bar.png",
+    "sha256": "805AA46C374CABF6EC86BF3745DDED3C7FEBA947317C2D5C44DB205AC70C1115"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\slider_bar.png.meta",
+    "sha256": "30B219D0F5F45371663F7EFB75B0A0D4587D61ADD9B69F51ED38C1A396B75362"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\slider_slider.png",
+    "sha256": "6B51A05C53765147703E5DF77473D7D7B6D259EB76247DA0963764A81341D234"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\slider_slider.png.meta",
+    "sha256": "2ED980CA2F3644AEABAAFCE7BCCEB4AD7654FFD7EF6BDC6AFC2C29449462AC13"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\translucent_01.png",
+    "sha256": "CACF9C70407A9B3309A8664DDBE8CBCC439121CC22207E26A72A255E445EE885"
+  },
+  {
+    "path": "Assets\\PassthroughCameraApiSamples\\StartScene\\Textures\\translucent_01.png.meta",
+    "sha256": "EFC640290625CC2A335105C9C241D70E06C3ADF72D29F07E6705A1B3F6BD494E"
+  },
+  {
+    "path": "Assets\\Plugins\\Android.meta",
+    "sha256": "BEC6B5120F6FC940D90C15C1695F7973F91C745BB90968D3FC2CA2A564AA3A2A"
+  },
+  {
+    "path": "Assets\\Plugins\\Android\\AndroidManifest.xml",
+    "sha256": "F9BBECC67EF7A439E178CC0B2405B6A977CF0CFB260BA59381484021BF84E436"
+  },
+  {
+    "path": "Assets\\Plugins\\Android\\AndroidManifest.xml.meta",
+    "sha256": "07DD49AF52501290B17A23AA1CBF6D91878FFEF279AA2FD178DF89DC264EED56"
+  },
+  {
+    "path": "Assets\\Resources\\buildInfo.txt",
+    "sha256": "A63B336B3D6C2911CC76FA37997790C3CFAF19797B6950C15D1FFF66E37D08D0"
+  },
+  {
+    "path": "Assets\\Resources\\buildInfo.txt.meta",
+    "sha256": "AF77E64D93C84C26D587B4DE178B75D7F586FA04FA808D9F0FFD3F2B121E2847"
+  },
+  {
+    "path": "Assets\\Resources\\ImmersiveDebuggerSettings.asset",
+    "sha256": "75841C58EE87AC8A93A292C8427E6354440D4E067D766B1251B02E2D8E5BF70F"
+  },
+  {
+    "path": "Assets\\Resources\\ImmersiveDebuggerSettings.asset.meta",
+    "sha256": "A738AAE0AA255502AA96611275695E9E3C361CFC1A205D293240FCFEE00AE4FA"
+  },
+  {
+    "path": "Assets\\Resources\\InputActions.asset",
+    "sha256": "56168F41998FCAE361DCC0C3B10CDC3CCF486761DD0E5FB04C95E9256DFB4504"
+  },
+  {
+    "path": "Assets\\Resources\\InputActions.asset.meta",
+    "sha256": "0936831D0C4F4377B4068687ABB4124C6F931572AF76ADC478F1911683B07A0E"
+  },
+  {
+    "path": "Assets\\Resources\\MetaXRAcousticMaterialMapping.asset",
+    "sha256": "9EE225B7EB09D44793A52D3728C7C8289A9C09C41570A74BCBF8EBB6867FF193"
+  },
+  {
+    "path": "Assets\\Resources\\MetaXRAcousticMaterialMapping.asset.meta",
+    "sha256": "E7E5ACF78AB83C71E279E948AF1C685D65720C515662FE2598F490A405554163"
+  },
+  {
+    "path": "Assets\\Resources\\OculusRuntimeSettings.asset",
+    "sha256": "66B13FA9072EDFD27B1C2ABC65A43CCD0CDE2EF8983B3B1AE51B5BE5489C2954"
+  },
+  {
+    "path": "Assets\\Resources\\OculusRuntimeSettings.asset.meta",
+    "sha256": "898D4F6A0BF087B741FD6EAB045AAD345F5161658699F965680FD291314241F5"
+  },
+  {
+    "path": "Assets\\Resources\\OVRBuildConfig.asset",
+    "sha256": "D9A9500E85FE5C26D4A709048E0256D919CB664718E6205E50BEEA9CE96A02A4"
+  },
+  {
+    "path": "Assets\\Resources\\OVRBuildConfig.asset.meta",
+    "sha256": "4C8C4AC1E6F8D9F576EB7211AD626B397A93F5B3DD8C010515D0C8422866E60D"
+  },
+  {
+    "path": "Assets\\Resources\\OVROverlayCanvasSettings.asset",
+    "sha256": "603F123F56BA400BE5E87B4EDBC4C4268AD6C3EF08D2C39D3A7459BB58D7EAB2"
+  },
+  {
+    "path": "Assets\\Resources\\OVROverlayCanvasSettings.asset.meta",
+    "sha256": "2C2FC6ADA13A27121665B4A855F084CB4899EC821CF1FC29879EFB5B1703B3F7"
+  },
+  {
+    "path": "Assets\\Resources\\OVRPlatformToolSettings.asset",
+    "sha256": "90C463239AFF1A302019451D1BB562A4947213882B45F6807A9C3AD882E47EC1"
+  },
+  {
+    "path": "Assets\\Resources\\OVRPlatformToolSettings.asset.meta",
+    "sha256": "0FDC727D0AA8D555FC08C34C710679DEC44E72B0EFA113F35A3CABC2AD5F1232"
+  },
+  {
+    "path": "Assets\\XR\\Loaders.meta",
+    "sha256": "1A459EB580D1001C6DC55E14805375296DE3FE51859E14D0A4B68F51F75F7768"
+  },
+  {
+    "path": "Assets\\XR\\Settings.meta",
+    "sha256": "1FD35276F45600C3E280876160A924FE2EA20330FF87BA6404F7355A5A3DB489"
+  },
+  {
+    "path": "Assets\\XR\\XRGeneralSettingsPerBuildTarget.asset",
+    "sha256": "0B802500E36BA353340608311B9B66B77DA849DBCE97B9049F752E56CC987EE3"
+  },
+  {
+    "path": "Assets\\XR\\XRGeneralSettingsPerBuildTarget.asset.meta",
+    "sha256": "A69F4E0317E028498FD5E885A3E92247F7AEB9AB9FD9B02ED9F052AB7ECA6DBD"
+  },
+  {
+    "path": "Assets\\XR\\Loaders\\OpenXRLoader.asset",
+    "sha256": "6489CD5500C64A356888E57846A3B8580B288E18B5BBE7472BC13A10405D7915"
+  },
+  {
+    "path": "Assets\\XR\\Loaders\\OpenXRLoader.asset.meta",
+    "sha256": "A277D97F3A706ADB27D2FEB508E38E1123D27F8A6611257E8C3F490201FDBEC1"
+  },
+  {
+    "path": "Assets\\XR\\Settings\\OpenXR Editor Settings.asset",
+    "sha256": "1D7330CB31937B4FFB66FF075B002787C42A5FC04D4C5243BF06DA9B2EB3AB6E"
+  },
+  {
+    "path": "Assets\\XR\\Settings\\OpenXR Editor Settings.asset.meta",
+    "sha256": "2C37E071D511A7DAB16E717A69FCF3816A3E69D405322F71B58C5BEC4A0E8C9B"
+  },
+  {
+    "path": "Assets\\XR\\Settings\\OpenXR Package Settings.asset",
+    "sha256": "7CB4CE4DED71433C9B241F727F781D6FD5660732B7E2CCE9AF2450C459159103"
+  },
+  {
+    "path": "Assets\\XR\\Settings\\OpenXR Package Settings.asset.meta",
+    "sha256": "3F338522AC98495DD8E3E320A3B5E5E919BCEDF66A9F64C1C804F327BAFE32FD"
+  },
+  {
+    "path": "Assets\\_Recovery\\0.unity",
+    "sha256": "28FFB51FD59F80E8E46B9B3155A08CF88DE58805098CF689110A6428828E3879"
+  },
+  {
+    "path": "Assets\\_Recovery\\0.unity.meta",
+    "sha256": "6A033B860F96FCCD8B80A405CA81B1C62AFB1B0469C9FBC488AF2320FA96E82E"
+  },
+  {
+    "path": "Packages\\manifest.json",
+    "sha256": "9762C25AFDEF872B965B3107341919B397521F579783F44FE8006A8241A8A2D7"
+  },
+  {
+    "path": "Packages\\packages-lock.json",
+    "sha256": "58BFC40BE2C447E71223FC7A25B34940C24A1B7A995D779B781A33E0C1AD7E48"
+  },
+  {
+    "path": "ProjectSettings\\AudioManager.asset",
+    "sha256": "ADFCD18859327B1CE5D3BE7531C59158845EB656F352927283D54C9FD37DBF02"
+  },
+  {
+    "path": "ProjectSettings\\ClusterInputManager.asset",
+    "sha256": "40E65DD214BF254955D2C8829CA8CE2130FD3510485560CE012E9A1DDD93E623"
+  },
+  {
+    "path": "ProjectSettings\\DynamicsManager.asset",
+    "sha256": "4071AC363718E689869E160D59E7324AD924810E689289E0BAFE3F0C4420776C"
+  },
+  {
+    "path": "ProjectSettings\\EditorBuildSettings.asset",
+    "sha256": "20389E009DB91517C243D3B857FF7F95A992406C3729B45E5D6A3A1800F9C5AC"
+  },
+  {
+    "path": "ProjectSettings\\EditorSettings.asset",
+    "sha256": "0C1ABB0B9220B2E444DA3274FA6BB837D70E066F9D383807BF81F34201AB3202"
+  },
+  {
+    "path": "ProjectSettings\\GraphicsSettings.asset",
+    "sha256": "2633C9550E2BA030437C8B5FE83F9260EF36845E0F70D69FEB3AEF6BD6B9AF9E"
+  },
+  {
+    "path": "ProjectSettings\\InputManager.asset",
+    "sha256": "D0F454DDB880912ABCAE92E3E12957A7446786BA89E24937E019FF3BBC0D4300"
+  },
+  {
+    "path": "ProjectSettings\\MemorySettings.asset",
+    "sha256": "1E8379A461B10AE09F3F696911088C16875D63E87ED5F2D95DF9E1892703F9FD"
+  },
+  {
+    "path": "ProjectSettings\\MultiplayerManager.asset",
+    "sha256": "89B01D808FF59A89F072EB5BFB45550E3E9D06787ABAAA768F4D7B4BBE2FB37F"
+  },
+  {
+    "path": "ProjectSettings\\NavMeshAreas.asset",
+    "sha256": "7EBBF8F53B8033104E1878B95CA07A28D0954092D81C220F14196A42F651E658"
+  },
+  {
+    "path": "ProjectSettings\\PackageManagerSettings.asset",
+    "sha256": "7A6346F943B6C395FE9BADDD7DB95D666322E7AA33E40F5CF175AA6CCB4CA348"
+  },
+  {
+    "path": "ProjectSettings\\Physics2DSettings.asset",
+    "sha256": "531861618163B01648A075414F6E864506AD8FE0A0D4D0096AA1FBBFCD3937DC"
+  },
+  {
+    "path": "ProjectSettings\\PresetManager.asset",
+    "sha256": "29C125923FE6E29F90190D4FCE1C82D660E7051546E2C9D02908D18C9CF2436C"
+  },
+  {
+    "path": "ProjectSettings\\ProjectSettings.asset",
+    "sha256": "EEC07CB24D8DE3CC2F97D38F326D729B3127FD00DAB4ECD0AA2DF8CD484E62E1"
+  },
+  {
+    "path": "ProjectSettings\\ProjectVersion.txt",
+    "sha256": "AB0792968E1A259FFAF9BADF36077D2F8F61A724F2906BF14C4F151014B84E38"
+  },
+  {
+    "path": "ProjectSettings\\QualitySettings.asset",
+    "sha256": "94E6F249182FC71ADD6FC61DE99CA7646682D79F027E07AEB7E9EF16552009D0"
+  },
+  {
+    "path": "ProjectSettings\\SceneTemplateSettings.json",
+    "sha256": "1A1CA728A2A53A59F35926CC12F81C7DBA82EE0FB2DBBED3DEFBD568369ACE9E"
+  },
+  {
+    "path": "ProjectSettings\\TagManager.asset",
+    "sha256": "8E18B1C820E9C09E16BBD1F1B7842E9FB3B0158A0921B0964E0B8FA12C6E2C01"
+  },
+  {
+    "path": "ProjectSettings\\TimelineSettings.asset",
+    "sha256": "A7FD60886F1D831B464039B48CB494BDB4E84B86C7DFED5752A7E31235505583"
+  },
+  {
+    "path": "ProjectSettings\\TimeManager.asset",
+    "sha256": "1A83E54ADBBDA7C9F4851103A0C6AB7F6448A3343D4EA5B7620452FA08416ECD"
+  },
+  {
+    "path": "ProjectSettings\\UnityConnectSettings.asset",
+    "sha256": "D6034ACBEF6C9E3179866486C31EAB81FCBE5E7ED350CE71E0FA2B1449B77109"
+  },
+  {
+    "path": "ProjectSettings\\VersionControlSettings.asset",
+    "sha256": "E7BDA45BF7A394745FEE1316E6C71FA676004D591AD1F3AA247FD3E4CEB86071"
+  },
+  {
+    "path": "ProjectSettings\\VFXManager.asset",
+    "sha256": "3F31266C7C1910447586E71B041DABD58D8371715AC3142D3E38ACE46121F4AB"
+  },
+  {
+    "path": "ProjectSettings\\XRPackageSettings.asset",
+    "sha256": "4CBC8F79D73D844F75EBE7C4D9DEAD01E72BD68E8ED901E926C7E58DD41D56E5"
+  },
+  {
+    "path": "ProjectSettings\\XRSettings.asset",
+    "sha256": "EDD2BEB4A2E388312B4B7DA241AA51070434005D82C59363F1237DD2E567585F"
+  },
+  {
+    "path": "ProjectSettings\\Packages\\com.unity.testtools.codecoverage\\Settings.json",
+    "sha256": "A40F81B0DCC795E422F5CA0881FE7DAD4E26CB8FDB33244A70F110835C1A8D44"
+  }
+]
